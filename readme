@@ -1,6 +1,6 @@
-require
-npm install hexo
-npm install hexo-deploy-git
+npm install hexo -g
+npm install
+npm install hexo-deploy-git --save
 
 by theme maupassant
 npm install hexo-renderer-jade --save
