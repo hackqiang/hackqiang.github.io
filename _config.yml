@@ -7,7 +7,7 @@ title: Qiang's Life
 subtitle: 夜阑卧听风吹雨
 description:
 author: hackqiang
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -64,7 +64,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: next
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

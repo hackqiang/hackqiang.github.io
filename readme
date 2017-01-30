@@ -1,3 +1,12 @@
+require
+npm install hexo
+npm install hexo-deploy-git
+
+by theme maupassant
+npm install hexo-renderer-jade --save
+npm install hexo-renderer-sass --save
+
+
 hexo clean
 hexo g
 hexo d
