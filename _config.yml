@@ -67,5 +67,5 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: https://github.com/hackqiang/hackqiang.github.io.git
-  type: git
+deploy: git@github.com:hackqiang/hackqiang.github.io.git
+type: git
