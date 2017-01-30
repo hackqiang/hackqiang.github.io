@@ -1,12 +1,12 @@
-npm install hexo -g
-npm install
-npm install hexo-deploy-git --save
+new environment:
+	npm install hexo -g
+	npm install
+	npm install hexo-deploy-git --save
 
-by theme maupassant
-npm install hexo-renderer-jade --save
-npm install hexo-renderer-sass --save
+	by theme maupassant
+		npm install hexo-renderer-jade --save
+		npm install hexo-renderer-sass --save
 
 
 hexo clean
-hexo g
-hexo d
+hexo d -g
