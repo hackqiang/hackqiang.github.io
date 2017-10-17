@@ -22,14 +22,12 @@
 <p>我对模型稍作了一点修改：<a href="https://github.com/hackqiang/dactyl-keyboard" target="_blank" rel="external">https://github.com/hackqiang/dactyl-keyboard</a></p>
 <p>二狗用多了，便也对这个键盘产生了兴趣，反正有打印机，那就做做呗。</p>
 <a id="more"></a>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/07/20170723_220120-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170723_005525-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170722_003518-1024x768.jpg" alt="">  <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170722_003506-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170721_214828-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170721_211739-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170721_211720-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170716_123236-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170710_070801-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170713_221657-1024x768.jpg" alt=""></p>
+<p><img src="/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/case.jpg" alt=""><br><img src="/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/case2.jpg" alt=""><br><img src="/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/pingheng.jpg" alt=""><br><img src="/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/wires.jpg" alt=""></p>
 <p>使用ergodone的固件和BL，完全按照ergodone的原理图来连线，有一个坑就是右手的vss和gnd在原理图中并没有连接，实际需要连接。另外trrs可以参考下图：</p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/07/20170708_204739.jpg" alt=""></p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/07/left.png" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/right.png" alt=""></p>
-<p>（在标签页打开图片可看原图）</p>
+<p><img src="/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/sch-1024x768.jpg" alt=""><br><img src="/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/left-1024x499.png" alt=""><br><img src="/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/right-1024x499.png" alt=""></p>
 <p>（“SW5：7” 表示 “ row5 col7”）</p>
 <p>另外因为dactyl相对ergodone少了两列，刚好烧配列的键没了，所以我就把‘T’补到那个位置了，这样按T可以刷配列了，但是就没法用原版的<a href="http://tkg.io" target="_blank" rel="external">tkg</a>生成正确的eep了，所以我clone了原版的tkg，增加了dactyl ergodone的键盘类型，放到自己的<a href="https://tkg.hackqiang.org" target="_blank" rel="external">tkg</a>，<del>因为没有改chrome插件，就没法在线刷配列了，需要下载eep在本地用tkg-toolkit-master刷。 </del>修改了chrome插件：<a href="https://github.com/hackqiang/tkg/raw/master/tkg-chrome-app.crx，支持在线刷了。" target="_blank" rel="external">https://github.com/hackqiang/tkg/raw/master/tkg-chrome-app.crx，支持在线刷了。</a></p>
-<p>感谢KTEC的ergodone固件，给我带来了极大的方便。</p>
+<p>感谢KTEC的ergodone固件，给我带来了极大的方便。<br><img src="/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/finish.png" alt=""></p>
 ]]></content>
       
         <categories>
@@ -38,6 +36,12 @@
             
         </categories>
         
+        
+        <tags>
+            
+            <tag> keyboard </tag>
+            
+        </tags>
         
     </entry>
     
@@ -53,7 +57,7 @@
 <a id="more"></a>
 <p>《路人女主》</p>
 <p>第一季里我喜欢学姐，第二季刚开始就成了慧党。我巡璃美如画。</p>
-<p><a href="https://hackqiang.org/wp-content/uploads/2017/06/wp-1498803673641.png"><img src="https://hackqiang.org/wp-content/uploads/2017/06/wp-1498803673641.png" alt=""></a></p>
+<p><a href=""><img src="/2017/06/30/e9-83-a8-e5-88-86-e5-9b-9b-e6-9c-88-e7-95-aa-e6-80-bb-e7-bb-93/cover.png" alt=""></a></p>
 <p>图片来自以为贴友。</p>
 <p>《黄漫老师》</p>
 <p>从俺妹追过来的，套路太多感觉没意思。</p>
@@ -198,19 +202,17 @@
 <p>我觉得这么小的键盘不搞个无线的话没什么意思，正好看到yang DIY的40优联，决定也做一个优联版的，配合usb2usb实现自定义的配列。</p>
 <a id="more"></a>
 <p>既然是自己DIY，那么能自己做的东西一定要自己做起来，外壳和定位板先打印出来：</p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/04/20170410_184910-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/04/20170416_070126-1024x768.jpg" alt=""></p>
-<p>正好翻出了以前diy牛反的碳纤维贴纸，贴顶层。</p>
+<p><img src="/2017/04/18/diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/case.jpg" alt=""><br><img src="/2017/04/18/diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/case2.jpg" alt=""><br>正好翻出了以前diy牛反的碳纤维贴纸，贴顶层。</p>
 <p>选择罗技 k230的主控，便宜也够用。</p>
 <p>因为atreus的键只有42个，所以没必要按照原来的k230矩阵飞线了，为了简化飞线，我就选取了其中的4行，加上12列，矩阵如下：</p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/04/matrix-1024x625.png" alt=""></p>
+<p><img src="/2017/04/18/diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/matrix-1024x625.png" alt=""></p>
 <p>因为原本的k230矩阵是经过优化的，一定程度上减少了按键冲突，但是我这么一简化飞线，按键冲突就会比较明显了，所以要为每一个轴增加一个二极管防冲突：</p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/04/QQ截图20170418234454-1024x516.png" alt=""></p>
+<p><img src="/2017/04/18/diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/wire.png" alt=""></p>
 <p>最后使用两块CR2032，保守估计1年不用换电池了。</p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/04/222222222222-1024x577.png" alt=""></p>
 <p>在此借用yang的一张矩阵图，下半部分是按照我这个矩阵得到的key映射表，这长表后面配置usb2usb的固件时要用到：</p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/04/QQ截图20170418234646-1024x638.png" alt=""></p>
+<p><img src="/2017/04/18/diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/k230.png" alt=""></p>
 <p>再凑点垃圾键帽，装上壳子，硬件上，键盘就差不多OK了（上面我的ergodone露出了半截）：</p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/04/1111111-1024x628.png" alt=""></p>
+<p><img src="/2017/04/18/diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/finish.png" alt=""></p>
 <p>下面就该去改usb2usb的代码了：</p>
 <p><a href="https://github.com/hackqiang/tmk_keyboard/commit/fb83b1830349ff4fda5468b250f61a0b531b1d4f" target="_blank" rel="external">https://github.com/hackqiang/tmk_keyboard/commit/fb83b1830349ff4fda5468b250f61a0b531b1d4f</a></p>
 <p>配列的修改有两种方式：</p>
@@ -277,12 +279,11 @@
 <p>首先，USB Host Shield 2.0哪里买， <a href="http://duinopeak.com/store/index.php?route=product/product&amp;product_id=47，理论上来说，长的一样应该都可以。" target="_blank" rel="external">http://duinopeak.com/store/index.php?route=product/product&amp;product_id=47，理论上来说，长的一样应该都可以。</a></p>
 <p>然后，pro micro一定要买3.3v的版本，一般对于的晶振就是8MHZ。</p>
 <p>正好这两个板子可以叠起来，尺寸会做的比较小。</p>
-<p>还有就是因为接了3.3v，所以usb端口的电压就不够了，需要切断一处pcb上的走线，并接上5v的电压。</p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/04/cut.jpg" alt=""></p>
+<p>还有就是因为接了3.3v，所以usb端口的电压就不够了，需要切断一处pcb上的走线，并接上5v的电压。<br><img src="/2017/04/13/usb2usb/cut.jpg" alt=""><br><img src="/2017/04/13/usb2usb/wire.jpg" alt=""></p>
 <p>固件的话，记得要再makefile中把频率改成8MHZ，可以参考我的代码：</p>
 <p><a href="https://github.com/hackqiang/tmk_keyboard/commit/fb83b1830349ff4fda5468b250f61a0b531b1d4f" target="_blank" rel="external">https://github.com/hackqiang/tmk_keyboard/commit/fb83b1830349ff4fda5468b250f61a0b531b1d4f</a></p>
 <p>最后增加一个rst按钮，再打印个外壳：</p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/04/20170418_214951-1024x768.jpg" alt=""></p>
+<p><img src="/2017/04/13/usb2usb/finish.jpg" alt=""></p>
 <p>外壳stl下载地址：</p>
 <p><a href="http://www.thingiverse.com/thing:2256751" target="_blank" rel="external">http://www.thingiverse.com/thing:2256751</a></p>
 <p>ref：</p>

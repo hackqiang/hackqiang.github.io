@@ -212,13 +212,6 @@
     </url>
 
     <url>
-        <loc>http://hackqiang.org/tags/DIY/</loc>
-        <lastmod>2017-10-17T10:59:56.006Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://hackqiang.org/tags/fate-stay-night/</loc>
         <lastmod>2017-10-17T10:59:56.010Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -242,20 +235,6 @@
     <url>
         <loc>http://hackqiang.org/tags/%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0/</loc>
         <lastmod>2017-10-17T10:59:56.010Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hackqiang.org/tags/atreus/</loc>
-        <lastmod>2017-10-17T10:59:56.014Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hackqiang.org/tags/keyboard/</loc>
-        <lastmod>2017-10-17T10:59:56.014Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -305,13 +284,6 @@
     <url>
         <loc>http://hackqiang.org/tags/%E6%97%A5%E9%A3%9F/</loc>
         <lastmod>2017-10-17T10:59:56.018Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hackqiang.org/tags/%E5%8A%A8%E6%BC%AB/</loc>
-        <lastmod>2017-10-17T10:59:56.022Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -844,6 +816,34 @@
     <url>
         <loc>http://hackqiang.org/tags/trackpoint/</loc>
         <lastmod>2017-10-17T10:59:56.190Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hackqiang.org/tags/%E5%8A%A8%E6%BC%AB/</loc>
+        <lastmod>2017-10-17T14:40:37.927Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hackqiang.org/tags/atreus/</loc>
+        <lastmod>2017-10-17T14:46:59.525Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hackqiang.org/tags/keyboard/</loc>
+        <lastmod>2017-10-17T14:49:34.057Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hackqiang.org/tags/DIY/</loc>
+        <lastmod>2017-10-17T14:49:34.057Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

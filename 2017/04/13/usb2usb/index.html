@@ -6,12 +6,11 @@
 <p>首先，USB Host Shield 2.0哪里买， <a href="http://duinopeak.com/store/index.php?route=product/product&amp;product_id=47，理论上来说，长的一样应该都可以。" target="_blank" rel="external">http://duinopeak.com/store/index.php?route=product/product&amp;product_id=47，理论上来说，长的一样应该都可以。</a></p>
 <p>然后，pro micro一定要买3.3v的版本，一般对于的晶振就是8MHZ。</p>
 <p>正好这两个板子可以叠起来，尺寸会做的比较小。</p>
-<p>还有就是因为接了3.3v，所以usb端口的电压就不够了，需要切断一处pcb上的走线，并接上5v的电压。</p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/04/cut.jpg" alt=""></p>
+<p>还有就是因为接了3.3v，所以usb端口的电压就不够了，需要切断一处pcb上的走线，并接上5v的电压。<br><img src="/2017/04/13/usb2usb/cut.jpg" alt=""><br><img src="/2017/04/13/usb2usb/wire.jpg" alt=""></p>
 <p>固件的话，记得要再makefile中把频率改成8MHZ，可以参考我的代码：</p>
 <p><a href="https://github.com/hackqiang/tmk_keyboard/commit/fb83b1830349ff4fda5468b250f61a0b531b1d4f" target="_blank" rel="external">https://github.com/hackqiang/tmk_keyboard/commit/fb83b1830349ff4fda5468b250f61a0b531b1d4f</a></p>
 <p>最后增加一个rst按钮，再打印个外壳：</p>
-<p><img src="https://hackqiang.org/wp-content/uploads/2017/04/20170418_214951-1024x768.jpg" alt=""></p>
+<p><img src="/2017/04/13/usb2usb/finish.jpg" alt=""></p>
 <p>外壳stl下载地址：</p>
 <p><a href="http://www.thingiverse.com/thing:2256751" target="_blank" rel="external">http://www.thingiverse.com/thing:2256751</a></p>
 <p>ref：</p>

@@ -7,6 +7,38 @@
     </url>
 
     <url>
+        <loc>http://hackqiang.org/2017/04/13/usb2usb/</loc>
+        <lastmod>2017-10-17T14:49:34.057Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://hackqiang.org/2017/04/18/diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/</loc>
+        <lastmod>2017-10-17T14:46:59.525Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://hackqiang.org/2017/06/30/e9-83-a8-e5-88-86-e5-9b-9b-e6-9c-88-e7-95-aa-e6-80-bb-e7-bb-93/</loc>
+        <lastmod>2017-10-17T14:40:37.927Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://hackqiang.org/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/</loc>
+        <lastmod>2017-10-17T14:38:14.065Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://hackqiang.org/2017/10/17/hello-Hexo/</loc>
         <lastmod>2017-10-17T11:14:57.750Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -911,14 +943,6 @@
     </url>
 
     <url>
-        <loc>http://hackqiang.org/2017/06/30/e9-83-a8-e5-88-86-e5-9b-9b-e6-9c-88-e7-95-aa-e6-80-bb-e7-bb-93/</loc>
-        <lastmod>2017-10-17T10:59:56.022Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://hackqiang.org/2010/07/25/lfs-e4-b9-8b-e8-b7-af1-e5-85-b3-e4-ba-8e-e6-81-a2-e5-a4-8d-e7-8a-b6-e6-80-81/</loc>
         <lastmod>2017-10-17T10:59:56.022Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -969,14 +993,6 @@
     <url>
         <loc>http://hackqiang.org/2009/09/23/e7-94-b1msn-e6-96-ad-e7-bd-91-e9-97-a8-e6-89-80-e6-83-b3-e5-88-b0-e7-9a-84/</loc>
         <lastmod>2017-10-17T10:59:56.018Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://hackqiang.org/2017/04/18/diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/</loc>
-        <lastmod>2017-10-17T10:59:56.014Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -1088,14 +1104,6 @@
 
     <url>
         <loc>http://hackqiang.org/2011/12/22/kgdb-e8-b0-83-e8-af-95-e5-86-85-e6-a0-b8-e6-a8-a1-e5-9d-97/</loc>
-        <lastmod>2017-10-17T10:59:56.006Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://hackqiang.org/2017/04/13/usb2usb/</loc>
         <lastmod>2017-10-17T10:59:56.006Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1568,14 +1576,6 @@
 
     <url>
         <loc>http://hackqiang.org/2012/01/07/arm-e7-9a-84bin-e6-96-87-e4-bb-b6-e5-8f-8d-e7-bc-96-e8-af-91-e6-96-b9-e6-b3-95/</loc>
-        <lastmod>2017-10-17T10:59:55.934Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://hackqiang.org/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/</loc>
         <lastmod>2017-10-17T10:59:55.934Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
