@@ -27,8 +27,8 @@ usb2usb我就不多说了，看原作者hasu的帖子。
 正好这两个板子可以叠起来，尺寸会做的比较小。
 
 还有就是因为接了3.3v，所以usb端口的电压就不够了，需要切断一处pcb上的走线，并接上5v的电压。
-
-![](https://hackqiang.org/wp-content/uploads/2017/04/cut.jpg)
+![](usb2usb/cut.jpg)
+![](usb2usb/wire.jpg)
 
 固件的话，记得要再makefile中把频率改成8MHZ，可以参考我的代码：
 
@@ -36,7 +36,7 @@ https://github.com/hackqiang/tmk_keyboard/commit/fb83b1830349ff4fda5468b250f61a0
 
 最后增加一个rst按钮，再打印个外壳：
 
-![](https://hackqiang.org/wp-content/uploads/2017/04/20170418_214951-1024x768.jpg)
+![](usb2usb/finish.jpg)
 
 外壳stl下载地址：
 

@@ -20,31 +20,29 @@ https://github.com/technomancy/atreus
 
 既然是自己DIY，那么能自己做的东西一定要自己做起来，外壳和定位板先打印出来：
 
-![](https://hackqiang.org/wp-content/uploads/2017/04/20170410_184910-1024x768.jpg) ![](https://hackqiang.org/wp-content/uploads/2017/04/20170416_070126-1024x768.jpg)
-
+![](diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/case.jpg)
+![](diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/case2.jpg)
 正好翻出了以前diy牛反的碳纤维贴纸，贴顶层。
 
 选择罗技 k230的主控，便宜也够用。
 
 因为atreus的键只有42个，所以没必要按照原来的k230矩阵飞线了，为了简化飞线，我就选取了其中的4行，加上12列，矩阵如下：
 
-![](https://hackqiang.org/wp-content/uploads/2017/04/matrix-1024x625.png)
+![](diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/matrix-1024x625.png)
 
 因为原本的k230矩阵是经过优化的，一定程度上减少了按键冲突，但是我这么一简化飞线，按键冲突就会比较明显了，所以要为每一个轴增加一个二极管防冲突：
 
-![](https://hackqiang.org/wp-content/uploads/2017/04/QQ截图20170418234454-1024x516.png)
+![](diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/wire.png)
 
 最后使用两块CR2032，保守估计1年不用换电池了。
 
-![](https://hackqiang.org/wp-content/uploads/2017/04/222222222222-1024x577.png)
-
 在此借用yang的一张矩阵图，下半部分是按照我这个矩阵得到的key映射表，这长表后面配置usb2usb的固件时要用到：
 
-![](https://hackqiang.org/wp-content/uploads/2017/04/QQ截图20170418234646-1024x638.png)
+![](diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/k230.png)
 
 再凑点垃圾键帽，装上壳子，硬件上，键盘就差不多OK了（上面我的ergodone露出了半截）：
 
-![](https://hackqiang.org/wp-content/uploads/2017/04/1111111-1024x628.png)
+![](diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/finish.png)
 
 下面就该去改usb2usb的代码了：
 
