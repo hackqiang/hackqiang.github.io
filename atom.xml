@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hackqiang.org/"/>
-  <updated>2017-10-17T10:24:06.768Z</updated>
+  <updated>2017-10-17T10:59:56.178Z</updated>
   <id>http://hackqiang.org/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="http://hackqiang.org/2017/10/17/hello-world/"/>
     <id>http://hackqiang.org/2017/10/17/hello-world/</id>
-    <published>2017-10-17T10:24:06.768Z</published>
-    <updated>2017-10-17T10:24:06.768Z</updated>
+    <published>2017-10-17T10:59:56.178Z</published>
+    <updated>2017-10-17T10:59:56.178Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
     
@@ -42,7 +42,7 @@
     <link href="http://hackqiang.org/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/"/>
     <id>http://hackqiang.org/2017/07/24/e6-9b-b2-e9-9d-a2ergodox-dactyl/</id>
     <published>2017-07-24T15:39:06.000Z</published>
-    <updated>2017-10-17T10:24:06.756Z</updated>
+    <updated>2017-10-17T10:59:55.934Z</updated>
     
     <content type="html"><![CDATA[<p>dactyl应该也是Kinesis的衍生项目，原作者的项目：<a href="https://github.com/adereth/dactyl-keyboard" target="_blank" rel="external">https://github.com/adereth/dactyl-keyboard</a></p><p>我对模型稍作了一点修改：<a href="https://github.com/hackqiang/dactyl-keyboard" target="_blank" rel="external">https://github.com/hackqiang/dactyl-keyboard</a></p><p>二狗用多了，便也对这个键盘产生了兴趣，反正有打印机，那就做做呗。</p><a id="more"></a><p><img src="https://hackqiang.org/wp-content/uploads/2017/07/20170723_220120-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170723_005525-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170722_003518-1024x768.jpg" alt="">  <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170722_003506-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170721_214828-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170721_211739-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170721_211720-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170716_123236-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170710_070801-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/20170713_221657-1024x768.jpg" alt=""></p><p>使用ergodone的固件和BL，完全按照ergodone的原理图来连线，有一个坑就是右手的vss和gnd在原理图中并没有连接，实际需要连接。另外trrs可以参考下图：</p><p><img src="https://hackqiang.org/wp-content/uploads/2017/07/20170708_204739.jpg" alt=""></p><p><img src="https://hackqiang.org/wp-content/uploads/2017/07/left.png" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/07/right.png" alt=""></p><p>（在标签页打开图片可看原图）</p><p>（“SW5：7” 表示 “ row5 col7”）</p><p>另外因为dactyl相对ergodone少了两列，刚好烧配列的键没了，所以我就把‘T’补到那个位置了，这样按T可以刷配列了，但是就没法用原版的<a href="http://tkg.io" target="_blank" rel="external">tkg</a>生成正确的eep了，所以我clone了原版的tkg，增加了dactyl ergodone的键盘类型，放到自己的<a href="https://tkg.hackqiang.org" target="_blank" rel="external">tkg</a>，<del>因为没有改chrome插件，就没法在线刷配列了，需要下载eep在本地用tkg-toolkit-master刷。 </del>修改了chrome插件：<a href="https://github.com/hackqiang/tkg/raw/master/tkg-chrome-app.crx，支持在线刷了。" target="_blank" rel="external">https://github.com/hackqiang/tkg/raw/master/tkg-chrome-app.crx，支持在线刷了。</a></p><p>感谢KTEC的ergodone固件，给我带来了极大的方便。</p>]]></content>
     
@@ -64,7 +64,7 @@
     <link href="http://hackqiang.org/2017/06/30/e9-83-a8-e5-88-86-e5-9b-9b-e6-9c-88-e7-95-aa-e6-80-bb-e7-bb-93/"/>
     <id>http://hackqiang.org/2017/06/30/e9-83-a8-e5-88-86-e5-9b-9b-e6-9c-88-e7-95-aa-e6-80-bb-e7-bb-93/</id>
     <published>2017-06-30T06:35:00.000Z</published>
-    <updated>2017-10-17T10:24:06.764Z</updated>
+    <updated>2017-10-17T10:59:56.022Z</updated>
     
     <content type="html"><![CDATA[<p>不知道从什么时候开始，我开始追番了。就是属于业余选手罢了。</p><p>这个季度主要追了这几部:</p><p>《末日时在做什么？》</p><p>我给99分，结局有点不爽，虽然莲也很惹人爱。不过据说动画已经比较照顾观众的情绪了，原版小说更虐。后面明显是经费不够了，幸好最后一话的Scarborough fair挽救了一点。</p><p>《月色真美》</p><p>这包狗粮真甜，真大份！</p><a id="more"></a><p>《路人女主》</p><p>第一季里我喜欢学姐，第二季刚开始就成了慧党。我巡璃美如画。</p><p><a href="https://hackqiang.org/wp-content/uploads/2017/06/wp-1498803673641.png"><img src="https://hackqiang.org/wp-content/uploads/2017/06/wp-1498803673641.png" alt=""></a></p><p>图片来自以为贴友。</p><p>《黄漫老师》</p><p>从俺妹追过来的，套路太多感觉没意思。</p><p>《不正经的魔法讲师》</p><p>看过就会忘掉</p><p>《零之魔法师》</p><p>怎么zero总让我想起露易丝。</p><p>《Re:creators》</p><p>没看完。</p><p>《恋爱暴君》</p><p>勉强看完了，感觉没什么意思。</p><p>总结，现在后宫卖肉横行，还是需要月色和末日这股清流啊。</p>]]></content>
     
@@ -91,7 +91,7 @@
     <link href="http://hackqiang.org/2017/06/30/e6-9c-88-e8-89-b2-e7-9c-9f-e7-be-8e/"/>
     <id>http://hackqiang.org/2017/06/30/e6-9c-88-e8-89-b2-e7-9c-9f-e7-be-8e/</id>
     <published>2017-06-29T19:22:37.000Z</published>
-    <updated>2017-10-17T10:24:06.756Z</updated>
+    <updated>2017-10-17T10:59:56.058Z</updated>
     
     <content type="html"><![CDATA[<p>完结。</p><p>拯救了刚刚看完末日的我。</p><p>分享東山奈央的单曲《月がきれい (TV动画《月色真美》片尾曲 / TVアニメ「月がきれい」EDテーマ)》: <a href="http://music.163.com/song/480097178/?userid=11203834" target="_blank" rel="external">http://music.163.com/song/480097178/?userid=11203834</a> (来自@网易云音乐)<br>相比于op，我更喜欢月色的ED，可能是因为片尾的狗粮（哦我来说并不是）加分了吧。</p><p>我一直觉得自己是个怀旧的人，以前的日记，照片，情书，短信我都保存着，偶尔会拿出来翻翻，回忆下过去，甜的酸的苦的，离开校园越久越是怀念校园的生活。</p><p>最后来一碗原汁原味的狗粮，心里承受能力差的单身狗请 ctrl+w：</p><p>因为这是初恋，所以我还什么都不明白，我非常紧张，无论是牵手的方式，还是亲吻的方式，对朋友保密，因为很害羞，我总是不知所措，但那时是你鼓足勇气，把心意传达给了我，所以我们才能一直走下去，我深信着，我喜欢的人，也喜欢着自己，我认为这就是奇迹。</p>]]></content>
     
@@ -108,8 +108,6 @@
     
       <category term="动漫" scheme="http://hackqiang.org/categories/%E5%8A%A8%E6%BC%AB/"/>
     
-      <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%8A%A8%E6%BC%AB/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
-    
     
   </entry>
   
@@ -118,7 +116,7 @@
     <link href="http://hackqiang.org/2017/05/21/e9-98-bf-e9-87-8c-e5-9f-9f-e5-90-8d-e8-87-aa-e5-8a-a8-e6-9b-b4-e6-96-b0a-e8-ae-b0-e5-bd-95/"/>
     <id>http://hackqiang.org/2017/05/21/e9-98-bf-e9-87-8c-e5-9f-9f-e5-90-8d-e8-87-aa-e5-8a-a8-e6-9b-b4-e6-96-b0a-e8-ae-b0-e5-bd-95/</id>
     <published>2017-05-20T17:05:02.000Z</published>
-    <updated>2017-10-17T10:24:06.764Z</updated>
+    <updated>2017-10-17T10:59:56.030Z</updated>
     
     <content type="html"><![CDATA[<p>本来设置一个@的CNAME指向我的花生壳域名是很OK的，</p><p>但是最近遇到的两点变化让我不得不用A记录：</p><ol><li>网站基于let’s encrypt实现了https，而let’s encrypt的证书获取要求域名必须有A记录；</li><li>开始使用自己的域名邮箱了（@hackqiang.org），需要把@给MX记录了。<br>因为IP是变化的，所以手动去更新记录太蠢了，只能想办法去自动更新A记录了。</li></ol><p>一番搜索发现原来阿里有SDK可以支持更新域名记录的，所以就实现了一个很简单的自动更新A记录的脚本。</p><p>项目地址：<a href="https://github.com/hackqiang/aliDomainAUpdate" target="_blank" rel="external">https://github.com/hackqiang/aliDomainAUpdate</a></p>]]></content>
     
@@ -137,8 +135,6 @@
     
       <category term="Python" scheme="http://hackqiang.org/categories/Python/"/>
     
-      <category term="工具" scheme="http://hackqiang.org/categories/Python/%E5%B7%A5%E5%85%B7/"/>
-    
     
   </entry>
   
@@ -147,7 +143,7 @@
     <link href="http://hackqiang.org/2017/04/28/3d-e6-89-93-e5-8d-b0-e6-9c-ba-e4-bc-98-e5-8c-96/"/>
     <id>http://hackqiang.org/2017/04/28/3d-e6-89-93-e5-8d-b0-e6-9c-ba-e4-bc-98-e5-8c-96/</id>
     <published>2017-04-28T05:17:02.000Z</published>
-    <updated>2017-10-17T10:24:06.744Z</updated>
+    <updated>2017-10-17T10:59:56.066Z</updated>
     
     <content type="html"><![CDATA[<p>ref：</p><p><a href="http://geek-cn.com/3Dprinter/58.html" target="_blank" rel="external">http://geek-cn.com/3Dprinter/58.html</a></p>]]></content>
     
@@ -174,7 +170,7 @@
     <link href="http://hackqiang.org/2017/04/25/e4-bd-a0-e7-8e-b0-e5-9c-a8-e6-89-80-e6-8b-85-e5-bf-83-e7-9a-84-e4-b8-80-e5-88-87-ef-bc-8c-e4-b8-8d-e8-bf-87-e6-98-af-e6-9c-aa-e6-9d-a5-e5-bf-86-e8-b5-b7-e5-be-80-e4-ba-8b-e7-9a-84-e5-b0-8f-e6-8f-92/"/>
     <id>http://hackqiang.org/2017/04/25/e4-bd-a0-e7-8e-b0-e5-9c-a8-e6-89-80-e6-8b-85-e5-bf-83-e7-9a-84-e4-b8-80-e5-88-87-ef-bc-8c-e4-b8-8d-e8-bf-87-e6-98-af-e6-9c-aa-e6-9d-a5-e5-bf-86-e8-b5-b7-e5-be-80-e4-ba-8b-e7-9a-84-e5-b0-8f-e6-8f-92/</id>
     <published>2017-04-25T05:18:48.000Z</published>
-    <updated>2017-10-17T10:24:06.752Z</updated>
+    <updated>2017-10-17T10:59:56.058Z</updated>
     
     <content type="html"><![CDATA[<p>回头想想，确实如此。</p>]]></content>
     
@@ -198,7 +194,7 @@
     <link href="http://hackqiang.org/2017/04/19/trackpoint/"/>
     <id>http://hackqiang.org/2017/04/19/trackpoint/</id>
     <published>2017-04-19T12:26:14.000Z</published>
-    <updated>2017-10-17T10:24:06.772Z</updated>
+    <updated>2017-10-17T10:59:56.190Z</updated>
     
     <content type="html"><![CDATA[<p>ref:</p><ol><li><a href="https://geekhack.org/index.php?topic=55960.msg1291412#msg1291412" target="_blank" rel="external">https://geekhack.org/index.php?topic=55960.msg1291412#msg1291412</a></li><li><a href="https://deskthority.net/workshop-f7/t400-keyboard-trackpoint-pinout-t7678.html" target="_blank" rel="external">https://deskthority.net/workshop-f7/t400-keyboard-trackpoint-pinout-t7678.html</a></li><li><a href="https://deskthority.net/workshop-f7/tmk-chibios-stm32-with-ps-2-mouse-trackpoint-t12666.html" target="_blank" rel="external">https://deskthority.net/workshop-f7/tmk-chibios-stm32-with-ps-2-mouse-trackpoint-t12666.html</a></li><li><a href="https://github.com/rampadc/arduino-trackpoint-extended" target="_blank" rel="external">https://github.com/rampadc/arduino-trackpoint-extended</a></li><li><a href="https://www.facebook.com/notes/wez-furlong/building-a-keyboard-ii/10154296367151787" target="_blank" rel="external">https://www.facebook.com/notes/wez-furlong/building-a-keyboard-ii/10154296367151787</a></li></ol>]]></content>
     
@@ -225,7 +221,7 @@
     <link href="http://hackqiang.org/2017/04/18/diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/"/>
     <id>http://hackqiang.org/2017/04/18/diy-e4-bc-98-e8-81-94-e7-89-88-e6-9c-ac-e7-9a-84atreus/</id>
     <published>2017-04-18T15:17:25.000Z</published>
-    <updated>2017-10-17T10:24:06.748Z</updated>
+    <updated>2017-10-17T10:59:56.014Z</updated>
     
     <content type="html"><![CDATA[<p>atreus项目应该是受到了ergodox的启发产生的，项目地址是：</p><p><a href="https://github.com/technomancy/atreus" target="_blank" rel="external">https://github.com/technomancy/atreus</a></p><p>我觉得这么小的键盘不搞个无线的话没什么意思，正好看到yang DIY的40优联，决定也做一个优联版的，配合usb2usb实现自定义的配列。</p><a id="more"></a><p>既然是自己DIY，那么能自己做的东西一定要自己做起来，外壳和定位板先打印出来：</p><p><img src="https://hackqiang.org/wp-content/uploads/2017/04/20170410_184910-1024x768.jpg" alt=""> <img src="https://hackqiang.org/wp-content/uploads/2017/04/20170416_070126-1024x768.jpg" alt=""></p><p>正好翻出了以前diy牛反的碳纤维贴纸，贴顶层。</p><p>选择罗技 k230的主控，便宜也够用。</p><p>因为atreus的键只有42个，所以没必要按照原来的k230矩阵飞线了，为了简化飞线，我就选取了其中的4行，加上12列，矩阵如下：</p><p><img src="https://hackqiang.org/wp-content/uploads/2017/04/matrix-1024x625.png" alt=""></p><p>因为原本的k230矩阵是经过优化的，一定程度上减少了按键冲突，但是我这么一简化飞线，按键冲突就会比较明显了，所以要为每一个轴增加一个二极管防冲突：</p><p><img src="https://hackqiang.org/wp-content/uploads/2017/04/QQ截图20170418234454-1024x516.png" alt=""></p><p>最后使用两块CR2032，保守估计1年不用换电池了。</p><p><img src="https://hackqiang.org/wp-content/uploads/2017/04/222222222222-1024x577.png" alt=""></p><p>在此借用yang的一张矩阵图，下半部分是按照我这个矩阵得到的key映射表，这长表后面配置usb2usb的固件时要用到：</p><p><img src="https://hackqiang.org/wp-content/uploads/2017/04/QQ截图20170418234646-1024x638.png" alt=""></p><p>再凑点垃圾键帽，装上壳子，硬件上，键盘就差不多OK了（上面我的ergodone露出了半截）：</p><p><img src="https://hackqiang.org/wp-content/uploads/2017/04/1111111-1024x628.png" alt=""></p><p>下面就该去改usb2usb的代码了：</p><p><a href="https://github.com/hackqiang/tmk_keyboard/commit/fb83b1830349ff4fda5468b250f61a0b531b1d4f" target="_blank" rel="external">https://github.com/hackqiang/tmk_keyboard/commit/fb83b1830349ff4fda5468b250f61a0b531b1d4f</a></p><p>配列的修改有两种方式：</p><ol><li>首先定义一个key的映射，在源码中里定义好配列，就不多说了。参考keymap_unifyingAtreus.c。直接make KEYMAP=unifyingAtreus</li><li><p>通过KLE以及TKG，图形化的配置。</p><ol><li>tkg的地址为<a href="https://tkg.io，KLE为http://www.keyboard-layout-editor.com。" target="_blank" rel="external">https://tkg.io，KLE为http://www.keyboard-layout-editor.com。</a></li><li>这是原本的<a href="http://www.keyboard-layout-editor.com/##@_name=unifying%20matrix%20for%20Atreus&amp;notes=%5B%7Ba%2F:7%7D,%22C%22,%22E%22,%7Ba%2F:5%7D,%22%7C%5Cn%5C%5C%22,%7Ba%2F:7%7D,%22enter%22,%22I%22,%7Bx%2F:2%7D,%22D%22,%7Ba%2F:5%7D,%22!%5Cn1%22,%22~%5Cn%60%22,%22$%5Cn4%22,%7Ba%2F:7%7D,%22esc%22%5D,%0A%5B%22B%22,%7Ba%2F:5%7D,%223%5Cnpgdn%22,%226%5Cn%E2%86%92%22,%7Ba%2F:7%7D,%22L%22,%22P%22,%7Bx%2F:2%7D,%22Q%22,%7Ba%2F:5%7D,%22%7B%5Cn%5B%22,%7Ba%2F:7%7D,%22T%22,%22F8%22,%22F4%22%5D,%0A%5B%22N%22,%22numlock%22,%7Ba%2F:5%7D,%229%5Cnpgup%22,%22%2F:%5Cn%2F%3B%22,%7Ba%2F:7%7D,%22Y%22,%7Bx%2F:2%7D,%22caps%22,%22F12%22,%22X%22,%22F9%22,%22F5%22%5D,%0A%5B%22space%22,%22+%22,%22bs%22,%7Ba%2F:5%7D,%228%5Cn%E2%86%91%22,%22%5E%5Cn6%22,%7Ba%2F:7%7D,%22Z%22,%22F11%22,%22F1%22,%22F2%22,%22W%22,%22tab%22,%22F6%22%5D%3B&amp;@_r:10&amp;rx:1&amp;y:-0.09999999999999998&amp;x:2&amp;a:5%3B&amp;=%7C%0A%5C%3B&amp;@_y:-0.65&amp;x:1&amp;a:7%3B&amp;=E&amp;_x:1%3B&amp;=enter%3B&amp;@_y:-0.75%3B&amp;=C%3B&amp;@_y:-0.9&amp;x:4%3B&amp;=I%3B&amp;@_y:-0.7000000000000001&amp;x:2&amp;a:5%3B&amp;=6%0A%E2%86%92%3B&amp;@_y:-0.6499999999999999&amp;x:1%3B&amp;=3%0Apgdn&amp;_x:1&amp;a:7%3B&amp;=L%3B&amp;@_y:-0.75%3B&amp;=B%3B&amp;@_y:-0.8999999999999999&amp;x:4%3B&amp;=P%3B&amp;@_y:-0.7000000000000002&amp;x:2&amp;a:5%3B&amp;=9%0Apgup%3B&amp;@_y:-0.6499999999999999&amp;x:1&amp;a:7%3B&amp;=numlock&amp;_x:1&amp;a:5%3B&amp;=%2F:%0A%2F%3B%3B&amp;@_y:-0.75&amp;a:7%3B&amp;=N%3B&amp;@_y:-0.8999999999999999&amp;x:4%3B&amp;=Y%3B&amp;@_y:-0.75&amp;x:5&amp;h:1.5%3B&amp;=Z%3B&amp;@_y:-0.9500000000000002&amp;x:2%3B&amp;=bs%3B&amp;@_y:-0.6499999999999999&amp;x:1%3B&amp;=+&amp;_x:1&amp;a:5%3B&amp;=8%0A%E2%86%91%3B&amp;@_y:-0.75&amp;a:7%3B&amp;=space%3B&amp;@_y:-0.8999999999999999&amp;x:4&amp;a:5%3B&amp;=%5E%0A6%3B&amp;@_r:-10&amp;rx:7&amp;ry:0.965&amp;y:-0.20000000000000018&amp;x:2%3B&amp;=~%0A%60%3B&amp;@_y:-0.6499999999999999&amp;x:1%3B&amp;=!%0A1&amp;_x:1%3B&amp;=$%0A4%3B&amp;@_y:-0.75&amp;x:4&amp;a:7%3B&amp;=esc%3B&amp;@_y:-0.8999999999999999%3B&amp;=D%3B&amp;@_y:-0.7000000000000002&amp;x:2%3B&amp;=T%3B&amp;@_y:-0.6499999999999999&amp;x:1&amp;a:5%3B&amp;=%7B%0A%5B&amp;_x:1&amp;a:7%3B&amp;=F8%3B&amp;@_y:-0.75&amp;x:4%3B&amp;=F4%3B&amp;@_y:-0.8999999999999999%3B&amp;=Q%3B&amp;@_y:-0.7000000000000002&amp;x:2%3B&amp;=X%3B&amp;@_y:-0.6499999999999999&amp;x:1%3B&amp;=F12&amp;_x:1%3B&amp;=F9%3B&amp;@_y:-0.7500000000000004&amp;x:4%3B&amp;=F5%3B&amp;@_y:-0.9000000000000004%3B&amp;=caps%3B&amp;@_y:-0.7499999999999996&amp;x:-1&amp;h:1.5%3B&amp;=F11%3B&amp;@_y:-0.9499999999999997&amp;x:2%3B&amp;=W%3B&amp;@_y:-0.6500000000000004&amp;x:1%3B&amp;=F2&amp;_x:1%3B&amp;=tab%3B&amp;@_y:-0.75&amp;x:4%3B&amp;=F6%3B&amp;@_y:-0.9000000000000004%3B&amp;=F1" target="_blank" rel="external">矩阵</a>，把raw中的数据复制到tkg的USB2USB的”设定“中.</li><li>在KLE中配置自己的配列，例如<a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23b3aaaa&amp;name=qiang" target="_blank" rel="external">我的</a>，复制raw到TKG的”层”中，选择“简单”模式，设置下fn的效果。</li><li>点击下载.c文件，放到tmk_keyboard/converter/usb_usb中，重命名为keymap_tkg.c，然后make KEYMAP=tkg<br>生成的hex通过Arduloader烧到USB2USB中就可以了。</li></ol></li></ol><p>&nbsp;</p>]]></content>
     
@@ -251,7 +247,7 @@
     <link href="http://hackqiang.org/2017/04/14/git-tips/"/>
     <id>http://hackqiang.org/2017/04/14/git-tips/</id>
     <published>2017-04-14T07:26:05.000Z</published>
-    <updated>2017-10-17T10:24:06.768Z</updated>
+    <updated>2017-10-17T10:59:56.026Z</updated>
     
     <content type="html"><![CDATA[<p>git remote add upstream URL<br>git fetch upstream<br>git merge upstream/master</p><pre>htpasswd -m -c /home/www/git/.htpasswd &lt;username&gt;</pre>]]></content>
     
@@ -277,7 +273,7 @@
     <link href="http://hackqiang.org/2017/04/13/usb2usb/"/>
     <id>http://hackqiang.org/2017/04/13/usb2usb/</id>
     <published>2017-04-13T12:22:26.000Z</published>
-    <updated>2017-10-17T10:24:06.776Z</updated>
+    <updated>2017-10-17T10:59:56.006Z</updated>
     
     <content type="html"><![CDATA[<p>因为要做一个优联版本的无线小键盘atreus，所以usb2usb是必须的。</p><p>usb2usb我就不多说了，看原作者hasu的帖子。</p><p>只要USB Host Shield 2.0和pro micro，就可以自己DIY了，可以把成本控制在22+40（不含邮费）。</p><p>具体的硬件连接yang已经说的比较详细了，我再总结归纳下。</p><a id="more"></a><p>首先，USB Host Shield 2.0哪里买， <a href="http://duinopeak.com/store/index.php?route=product/product&amp;product_id=47，理论上来说，长的一样应该都可以。" target="_blank" rel="external">http://duinopeak.com/store/index.php?route=product/product&amp;product_id=47，理论上来说，长的一样应该都可以。</a></p><p>然后，pro micro一定要买3.3v的版本，一般对于的晶振就是8MHZ。</p><p>正好这两个板子可以叠起来，尺寸会做的比较小。</p><p>还有就是因为接了3.3v，所以usb端口的电压就不够了，需要切断一处pcb上的走线，并接上5v的电压。</p><p><img src="https://hackqiang.org/wp-content/uploads/2017/04/cut.jpg" alt=""></p><p>固件的话，记得要再makefile中把频率改成8MHZ，可以参考我的代码：</p><p><a href="https://github.com/hackqiang/tmk_keyboard/commit/fb83b1830349ff4fda5468b250f61a0b531b1d4f" target="_blank" rel="external">https://github.com/hackqiang/tmk_keyboard/commit/fb83b1830349ff4fda5468b250f61a0b531b1d4f</a></p><p>最后增加一个rst按钮，再打印个外壳：</p><p><img src="https://hackqiang.org/wp-content/uploads/2017/04/20170418_214951-1024x768.jpg" alt=""></p><p>外壳stl下载地址：</p><p><a href="http://www.thingiverse.com/thing:2256751" target="_blank" rel="external">http://www.thingiverse.com/thing:2256751</a></p><p>ref：</p><ol><li><a href="https://forum.colemak.com/topic/2158-dreymars-big-bag-of-keyboard-tricks-usb2usb-edition/" target="_blank" rel="external">https://forum.colemak.com/topic/2158-dreymars-big-bag-of-keyboard-tricks-usb2usb-edition/</a></li><li><a href="https://geekhack.org/index.php?topic=69169.0" target="_blank" rel="external">https://geekhack.org/index.php?topic=69169.0</a></li><li><a href="https://geekhack.org/index.php?topic=80421" target="_blank" rel="external">https://geekhack.org/index.php?topic=80421</a></li></ol>]]></content>
     
@@ -304,7 +300,7 @@
     <link href="http://hackqiang.org/2017/04/07/e5-87-86-e5-a4-87-e6-81-a2-e5-a4-8d-e6-95-b0-e6-8d-ae/"/>
     <id>http://hackqiang.org/2017/04/07/e5-87-86-e5-a4-87-e6-81-a2-e5-a4-8d-e6-95-b0-e6-8d-ae/</id>
     <published>2017-04-07T13:40:56.000Z</published>
-    <updated>2017-10-17T10:24:06.752Z</updated>
+    <updated>2017-10-17T10:59:56.054Z</updated>
     
     <content type="html"><![CDATA[<p>之前提到我的数据找不到了，后面发现Archive.org对我的站点收录的很全，nice啊。</p><p>赶紧抽空写了个python脚本尝试恢复数据。</p><p>主要原理流程：</p><ol><li>从web.archive.org上抓blog页面</li><li>分析blog页面，提取出文章信息</li><li>生成支持wordpress导入的XML格式</li><li>从wordpress后台导入XML<br>代码写很糟糕，不过好歹是能用了，基本上数据都找回来了，就是以前的格式排版都丢了，不过无所谓啦。</li></ol><p>代码地址：<a href="https://github.com/hackqiang/RWFA.git" target="_blank" rel="external">https://github.com/hackqiang/RWFA.git</a></p>]]></content>
     
@@ -338,7 +334,7 @@
     <link href="http://hackqiang.org/2017/03/24/oops-lost-data/"/>
     <id>http://hackqiang.org/2017/03/24/oops-lost-data/</id>
     <published>2017-03-24T05:13:38.000Z</published>
-    <updated>2017-10-17T10:24:06.772Z</updated>
+    <updated>2017-10-17T10:59:55.966Z</updated>
     
     <content type="html"><![CDATA[<p>其实我是有危机意识的，所以一直都有定时的备份数据，直到qiang.ws域名到期，发现续费太坑爹后，免费空间收回去了后就没继续备份。</p><p>映像中备份的文件一直存放在E:\qiang.ws。</p><p>过年在老家把hexo摸清楚了，markdown也学了，新域名也申请好了，git page也准备就绪了。</p><p>然而，<strong>年后回家后发现备份的数据不见了</strong>。我的天！我感觉世界塌了一半。</p><p>尝试了各种方式找回数据，花了几十个小时尝试恢复4块可能存放过数据的硬盘，把我的各个网盘，邮箱翻了个底朝天，甚至厚着脸皮找goaddy的客服，最后仍然没有找回数据。</p><p>数据恢复的过程中又发生意外，导致我又丢了3T的电影动漫，我当时想死了。。。难道这是对我用黑裙的惩罚吗？</p><p>群晖还是适合小白，虽然现在支持docker了，但是还是完全不够我折腾，于是换回ubuntu了.</p><p>这件事给我的打击太大了，以致我意志消沉了个把月，一度不再想写blog了。</p><p>这两天突然发现，电信竟然没有封443？那赶紧的吧https搞起来吧。</p><p>从头再来吧。</p>]]></content>
     
@@ -365,7 +361,7 @@
     <link href="http://hackqiang.org/2015/03/19/zram-e5-88-86-e6-9e-901-ef-bc-9azram-e8-ae-be-e5-a4-87/"/>
     <id>http://hackqiang.org/2015/03/19/zram-e5-88-86-e6-9e-901-ef-bc-9azram-e8-ae-be-e5-a4-87/</id>
     <published>2015-03-19T13:33:00.000Z</published>
-    <updated>2017-10-17T10:24:06.776Z</updated>
+    <updated>2017-10-17T10:59:56.070Z</updated>
     
     <content type="html"><![CDATA[<p>zRAM虽然说出来的时间挺长的，但是细节的资料不是很多，我把这几天看到的东西记录下，也方便后人。<br>zRAM是依赖swap机制的，核心的思想就是将待写入swap分区的页面压缩后写入内存，就要就避免了实际的swap分区，并且速度也相对快，最最关键的是对于一些使用flash设备的友好。<br>zRAM的主要文件都在drivers/block/zram中，核心文件很少：<br>zram_drv.c<br>以及为了减少内存碎片使用的一个内存分配器：<br>zsmalloc.c<br>关于这个内存分配器，后面再说。<br>惯例从init看起：</p>]]></content>
     
@@ -380,10 +376,6 @@
     
       <category term="kernel/drivers" scheme="http://hackqiang.org/categories/kernel-drivers/"/>
     
-      <category term="Linux" scheme="http://hackqiang.org/categories/kernel-drivers/Linux/"/>
-    
-      <category term="未分类" scheme="http://hackqiang.org/categories/kernel-drivers/Linux/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
-    
     
       <category term="kernel" scheme="http://hackqiang.org/tags/kernel/"/>
     
@@ -396,7 +388,7 @@
     <link href="http://hackqiang.org/2015/03/18/e5-a5-b9-e6-8e-89-e7-9c-bc-e6-b3-aa-e4-bd-a0-e4-b9-9f-e4-b8-8d-e5-a4-a7-e7-b4-a7-e5-bc-a0-e4-ba-86/"/>
     <id>http://hackqiang.org/2015/03/18/e5-a5-b9-e6-8e-89-e7-9c-bc-e6-b3-aa-e4-bd-a0-e4-b9-9f-e4-b8-8d-e5-a4-a7-e7-b4-a7-e5-bc-a0-e4-ba-86/</id>
     <published>2015-03-18T07:52:00.000Z</published>
-    <updated>2017-10-17T10:24:06.756Z</updated>
+    <updated>2017-10-17T10:59:55.986Z</updated>
     
     <content type="html"><![CDATA[<p>一双鞋，刚买的时候蹭上一点灰都要蹲下来擦干净，穿久之后即使被人踩一脚可能也很少低头。人大抵都是如此，不论对物还是对情，最初，她皱一下眉你都心疼，到后来，她掉眼泪你也不大紧张了。<br>Nerver be like this.</p>]]></content>
     
@@ -412,8 +404,6 @@
     
       <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
     
-      <category term="未分类" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
-    
     
   </entry>
   
@@ -422,7 +412,7 @@
     <link href="http://hackqiang.org/2015/03/12/e8-bf-91-e5-86-b5-e9-9a-8f-e4-be-bf-e5-86-99-e5-86-99/"/>
     <id>http://hackqiang.org/2015/03/12/e8-bf-91-e5-86-b5-e9-9a-8f-e4-be-bf-e5-86-99-e5-86-99/</id>
     <published>2015-03-12T03:09:00.000Z</published>
-    <updated>2017-10-17T10:24:06.764Z</updated>
+    <updated>2017-10-17T10:59:56.102Z</updated>
     
     <content type="html"><![CDATA[<p>不知不觉新的一年都要过去一个季度了，我竟然才反应过来。<br>过年开车回老家，来回700km，幸运的是没有选择免费的时间出行，避免了堵车和潜在的事故，经过这700km的磨练，觉得对车的掌控又上升了一个等级～<br>年前众筹的3D打印机失败了，发货也是一直再推迟，索性自己DIY一个，目前进度30%，还在淘宝上疯狂采购零件。<br>春天已经来了，气温上升了，同时我观星的欲望也是蠢蠢欲动，想着是不是该买设备了。<br>本来想去HK玩一玩，最近发现HK也不太平了，打算放弃了。<br>最近开始深入linux MM，希望在这方面有所建树。<br>后续的事还有不少，拍婚纱照，拿结婚证，办产权证，回家办酒席，想想都觉得烦和怕。<br>新年新迹象，今年在工作上的改进是：<br>每天都自己写工作记录，记录和总结工作中遇到的问题<br>使用redmine指定和追踪工作任务<br>在生活上的改进是：<br>早起（早睡还没有做到^_^）<br>使用todo软件安排生活<br>多做饭，锻炼厨艺<br>游戏玩的少了<br>希望能保持下去。</p>]]></content>
     
@@ -437,8 +427,6 @@
     
       <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
     
-      <category term="未分类" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
-    
     
   </entry>
   
@@ -447,7 +435,7 @@
     <link href="http://hackqiang.org/2015/01/22/2014-e5-b9-b4-e7-bb-88-e6-80-bb-e7-bb-93/"/>
     <id>http://hackqiang.org/2015/01/22/2014-e5-b9-b4-e7-bb-88-e6-80-bb-e7-bb-93/</id>
     <published>2015-01-22T02:29:00.000Z</published>
-    <updated>2017-10-17T10:24:06.748Z</updated>
+    <updated>2017-10-17T10:59:56.022Z</updated>
     
     <content type="html"><![CDATA[<p>2014，是忙碌的一年，也是碌碌无为的一年。<br>工作<br>年初的时候，进入了一个新的项目组，进行kernel相关的工作，期间分析了很多oops的问题，得到了HQ资深工程师的培训，学习了众多samsung对kernel改进的patch，重温了VFS，MM，scheduler等模块，总体上来说，虽然没有学习到太多新鲜的东西，但是对kernel skill帮助是很大的。<br>随着公司大力推动tizen，下半年开始接触tizen，期间做了一些tizen移植的工作，移植tizen到SAMSUNG私有的电视板子上，后来又移植到了开源硬件cubieboard上。<br>生活<br>在女朋友家过了一个很有意思的春节。<br>因为担心限牌，在丈母娘的支持下买了车–2012款福克斯，手动的，可惜不是2.0排量，感觉还行。6月份拿到驾照，到目前为止已经有3个违章。<br>10月终于收房了，因为是精装交付的，所以自己只搞了软装，元旦节就正式入住了。<br>今年突然流行起了智能家居，我也跟风了解了下，并众筹了一台3D打印机，UM2结构的，感觉应该会不错。<br>今年一整年的博文还是各位数，发现自己越来越不注重记录了，以后一定要改变。<br>现在已经用todo list来管理自己的生活了。<br>记得3年前写了一封给未来自己的信，其中提出了一些要求，现在发现完全没有做到，非常的惭愧。所以在新的一年，我希望自己能做到：<br>少玩游戏<br>注重知识的积累（记录）<br>养成早起的习惯<br>更用心的对待周围的人和事</p>]]></content>
     
@@ -462,8 +450,6 @@
     
       <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
     
-      <category term="未分类" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
-    
     
       <category term="总结" scheme="http://hackqiang.org/tags/%E6%80%BB%E7%BB%93/"/>
     
@@ -474,7 +460,7 @@
     <link href="http://hackqiang.org/2015/01/21/e8-a1-a5-ef-bc-9a2013-e5-b9-b4-e7-bb-88-e6-80-bb-e7-bb-93/"/>
     <id>http://hackqiang.org/2015/01/21/e8-a1-a5-ef-bc-9a2013-e5-b9-b4-e7-bb-88-e6-80-bb-e7-bb-93/</id>
     <published>2015-01-21T06:29:00.000Z</published>
-    <updated>2017-10-17T10:24:06.764Z</updated>
+    <updated>2017-10-17T10:59:56.042Z</updated>
     
     <content type="html"><![CDATA[<p>出大事了，2013年我竟然没有写年终总结？<br>年纪大了，记忆越来越不行了，只能从about页面中的近况慢慢回忆2013年了。<br>工作<br>2013年，是我到SAMSUNG的第二年，有关eCos的项目基本结束了，当时在HQ经历了2轮demo，虽然最终没有量产计划，但是还是拿到了一个不小的奖项。<br>然后开始专注与另一个SAMSUNG TV OS（因为保密协议，不能透露太多），去HQ出差两次，也得到了韩国工程师的赞誉，算是为我们项目组挣了面子。<br>下半年开始了关于JTAG performance调试器的研究，分析了TARCE32的工作机理，深度的学习了EJTAG协议和openJTAG硬件，并对FPGA有一定的了解。<br>生活<br>2013年最大的事就是房子买到了。我清楚的记得，我和女朋友在售楼处刷卡交钱的“喜悦”，虽然面积很小–只有89平，虽然位置很偏–距离新街口30+km，虽然交房很晚–2014年9月30日，但是我们还是喜欢的不得了。<br>在我的6通电直梦被我女朋友一次又一次扑灭的时候，我开始了DIY四轴的征途，学习开源的姿态控制代码，硬件，综合比较各种方案，从硬件到软件，都研究了一把。最终确定自己的设计，期间学会了用git与朋友协作，使用Kicad画原理图和PCB。这个项目的输出：<a href="https://bitbucket.org/hackqiang" target="_blank" rel="external">https://bitbucket.org/hackqiang</a><br>因为公司经常有编程大赛，有段时间一有空就去POJ刷题，可惜自己资质不行，距离大牛还很远，慢慢的拿不到成绩也冷淡了下来。<br>总体上来说，2013年不管是工作上的收获还是生活上的点滴，都给我很不错的充实感，可能唯一的遗憾就是忘了写年终总结了。^_^||</p>]]></content>
     
@@ -489,8 +475,6 @@
     
       <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
     
-      <category term="未分类" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
-    
     
       <category term="总结" scheme="http://hackqiang.org/tags/%E6%80%BB%E7%BB%93/"/>
     
@@ -501,7 +485,7 @@
     <link href="http://hackqiang.org/2014/02/27/e6-b4-bb-e7-9d-80/"/>
     <id>http://hackqiang.org/2014/02/27/e6-b4-bb-e7-9d-80/</id>
     <published>2014-02-26T17:44:00.000Z</published>
-    <updated>2017-10-17T10:24:06.760Z</updated>
+    <updated>2017-10-17T10:59:55.958Z</updated>
     
     <content type="html"><![CDATA[<p>看得我好揪心，也不懂他活着的意义。</p>]]></content>
     
@@ -517,8 +501,6 @@
     
       <category term="乱七八糟" scheme="http://hackqiang.org/categories/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/"/>
     
-      <category term="未分类" scheme="http://hackqiang.org/categories/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
-    
     
   </entry>
   
@@ -527,7 +509,7 @@
     <link href="http://hackqiang.org/2014/01/27/e8-8e-ab-e5-90-8d-e6-82-b2-e4-bc-a4-e5-8e-9f-e6-9d-a5-e8-87-aa-e5-b7-b1-e8-80-81-e4-ba-86/"/>
     <id>http://hackqiang.org/2014/01/27/e8-8e-ab-e5-90-8d-e6-82-b2-e4-bc-a4-e5-8e-9f-e6-9d-a5-e8-87-aa-e5-b7-b1-e8-80-81-e4-ba-86/</id>
     <published>2014-01-27T06:57:00.000Z</published>
-    <updated>2017-10-17T10:24:06.764Z</updated>
+    <updated>2017-10-17T10:59:56.014Z</updated>
     
     <content type="html"><![CDATA[<p>喜欢听老歌，喜欢看老电脑。<br>幸好有你在身边，谢谢！</p>]]></content>
     
@@ -542,8 +524,6 @@
     </summary>
     
       <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
-    
-      <category term="未分类" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
     
     
   </entry>
