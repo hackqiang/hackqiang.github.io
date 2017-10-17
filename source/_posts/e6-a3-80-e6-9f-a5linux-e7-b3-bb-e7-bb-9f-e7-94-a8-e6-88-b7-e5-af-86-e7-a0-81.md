@@ -4,8 +4,6 @@ id: 1805
 comment: false
 categories:
   - C/C++
-  - Linux
-  - 未分类
 date: 2011-06-30 17:26:00
 tags:
 ---

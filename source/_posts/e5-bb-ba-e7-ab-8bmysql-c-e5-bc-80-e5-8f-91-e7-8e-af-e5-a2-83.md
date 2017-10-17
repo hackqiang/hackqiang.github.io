@@ -8,8 +8,6 @@ id: 1750
 comment: false
 categories:
   - Linux
-  - 未分类
-  - 读书笔记
 date: 2010-02-21 19:27:00
 ---
 

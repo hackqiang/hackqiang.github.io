@@ -7,8 +7,6 @@ id: 1796
 comment: false
 categories:
   - Linux
-  - 乱七八糟
-  - 未分类
 date: 2011-06-09 23:37:00
 ---
 

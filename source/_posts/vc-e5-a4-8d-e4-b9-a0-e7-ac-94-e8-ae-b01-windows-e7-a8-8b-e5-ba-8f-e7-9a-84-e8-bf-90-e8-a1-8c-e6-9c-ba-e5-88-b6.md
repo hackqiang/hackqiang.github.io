@@ -8,8 +8,6 @@ id: 1694
 comment: false
 categories:
   - C/C++
-  - 未分类
-  - 读书笔记
 date: 2009-07-23 13:07:00
 ---
 

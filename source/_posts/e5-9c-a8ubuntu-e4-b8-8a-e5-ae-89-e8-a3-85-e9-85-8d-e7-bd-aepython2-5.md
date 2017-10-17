@@ -7,8 +7,6 @@ id: 1745
 comment: false
 categories:
   - Linux
-  - 未分类
-  - 读书笔记
 date: 2010-02-10 13:01:00
 ---
 

@@ -7,8 +7,6 @@ id: 1832
 comment: false
 categories:
   - embeded
-  - kernel/drivers
-  - 未分类
 date: 2011-12-22 15:27:00
 ---
 

@@ -7,8 +7,6 @@ id: 1773
 comment: false
 categories:
   - C/C++
-  - Linux
-  - 未分类
 date: 2010-11-24 21:53:00
 ---
 

@@ -4,8 +4,6 @@ id: 1828
 comment: false
 categories:
   - 乱七八糟
-  - 心情琐事
-  - 未分类
 date: 2005-12-19 12:22:00
 tags:
 ---

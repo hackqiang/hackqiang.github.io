@@ -6,7 +6,6 @@ id: 1804
 comment: false
 categories:
   - Linux
-  - 未分类
 date: 2011-06-30 10:44:00
 ---
 

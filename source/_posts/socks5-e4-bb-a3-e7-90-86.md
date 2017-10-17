@@ -6,6 +6,5 @@ id: 1734
 comment: false
 categories:
   - C/C++
-  - 未分类
 date: 2009-09-23 15:08:00
 ---

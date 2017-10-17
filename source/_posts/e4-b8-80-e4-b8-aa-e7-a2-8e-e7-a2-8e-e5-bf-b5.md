@@ -6,7 +6,6 @@ id: 1852
 comment: false
 categories:
   - 心情琐事
-  - 未分类
 date: 2012-05-29 16:27:00
 ---
 

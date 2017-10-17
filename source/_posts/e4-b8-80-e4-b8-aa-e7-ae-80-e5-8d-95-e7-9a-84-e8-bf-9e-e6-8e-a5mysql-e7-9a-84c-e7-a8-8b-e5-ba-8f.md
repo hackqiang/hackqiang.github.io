@@ -7,8 +7,6 @@ id: 1751
 comment: false
 categories:
   - C/C++
-  - 未分类
-  - 读书笔记
 date: 2010-02-23 11:02:00
 ---
 

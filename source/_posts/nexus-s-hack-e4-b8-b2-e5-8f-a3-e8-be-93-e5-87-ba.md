@@ -6,9 +6,6 @@ id: 1838
 comment: false
 categories:
   - embeded
-  - kernel/drivers
-  - 手机
-  - 未分类
 date: 2011-12-30 14:07:00
 ---
 

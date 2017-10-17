@@ -8,8 +8,6 @@ id: 1835
 comment: false
 categories:
   - kernel/drivers
-  - Linux
-  - 未分类
 date: 2011-12-22 16:25:00
 ---
 

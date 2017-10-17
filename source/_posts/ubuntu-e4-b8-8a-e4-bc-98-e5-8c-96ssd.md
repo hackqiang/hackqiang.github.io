@@ -8,7 +8,6 @@ id: 1688
 comment: false
 categories:
   - Linux
-  - 未分类
 date: 2009-07-19 10:07:00
 ---
 

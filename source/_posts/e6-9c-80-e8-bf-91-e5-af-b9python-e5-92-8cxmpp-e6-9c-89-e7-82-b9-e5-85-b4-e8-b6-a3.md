@@ -7,7 +7,6 @@ id: 1744
 comment: false
 categories:
   - 未分类
-  - 读书笔记
 date: 2010-02-10 12:55:00
 ---
 

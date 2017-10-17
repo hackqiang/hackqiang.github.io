@@ -7,8 +7,6 @@ id: 1837
 comment: false
 categories:
   - embeded
-  - 手机
-  - 未分类
 date: 2011-12-27 12:29:00
 ---
 

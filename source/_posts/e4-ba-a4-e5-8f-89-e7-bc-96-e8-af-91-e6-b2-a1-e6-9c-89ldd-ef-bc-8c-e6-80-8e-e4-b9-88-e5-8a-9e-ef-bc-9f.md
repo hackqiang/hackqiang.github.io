@@ -6,7 +6,6 @@ id: 1867
 comment: false
 categories:
   - embeded
-  - 未分类
 date: 2013-06-08 11:50:00
 ---
 

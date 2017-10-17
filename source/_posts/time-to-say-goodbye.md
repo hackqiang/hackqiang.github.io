@@ -6,7 +6,6 @@ id: 1855
 comment: false
 categories:
   - 乱七八糟
-  - 未分类
 date: 2012-07-28 10:44:00
 ---
 

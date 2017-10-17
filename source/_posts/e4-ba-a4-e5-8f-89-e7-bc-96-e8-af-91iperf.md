@@ -4,8 +4,6 @@ id: 1816
 comment: false
 categories:
   - embeded
-  - Linux
-  - 未分类
 date: 2011-09-30 14:10:00
 tags:
 ---

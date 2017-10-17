@@ -7,8 +7,6 @@ id: 1879
 comment: false
 categories:
   - kernel/drivers
-  - Linux
-  - 未分类
 date: 2015-03-19 21:33:00
 ---
 

@@ -6,7 +6,6 @@ id: 1803
 comment: false
 categories:
   - Linux
-  - 未分类
 date: 2011-06-28 07:37:00
 ---
 

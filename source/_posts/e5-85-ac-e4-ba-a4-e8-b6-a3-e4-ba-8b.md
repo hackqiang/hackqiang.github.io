@@ -4,7 +4,6 @@ id: 1814
 comment: false
 categories:
   - 心情琐事
-  - 未分类
 date: 2011-09-09 08:56:00
 tags:
 ---

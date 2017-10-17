@@ -4,7 +4,6 @@ id: 1864
 comment: false
 categories:
   - 乱七八糟
-  - 未分类
 date: 2013-04-03 13:55:00
 tags:
 ---

@@ -6,7 +6,6 @@ id: 1818
 comment: false
 categories:
   - 手机
-  - 未分类
 date: 2011-10-14 12:22:00
 ---
 

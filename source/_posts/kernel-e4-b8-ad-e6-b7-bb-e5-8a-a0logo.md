@@ -6,9 +6,6 @@ id: 1824
 comment: false
 categories:
   - embeded
-  - kernel/drivers
-  - Linux
-  - 未分类
 date: 2011-08-01 12:33:00
 ---
 
