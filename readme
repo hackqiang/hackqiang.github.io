@@ -1,7 +1,7 @@
 new environment:
 	npm install hexo -g
 	npm install
-	npm install hexo-deploy-git --save
+	npm install hexo-deployer-git --save
 
 	by theme maupassant
 		npm install hexo-renderer-jade --save
