@@ -1,0 +1,121 @@
+---
+title: Linux Socket 学习笔记22-带外数据2
+tags:
+  - 带外数据
+  - 紧急指针
+id: 1719
+comment: false
+categories:
+  - Linux
+  - 未分类
+  - 读书笔记
+date: 2009-08-08 14:19:00
+---
+
+如果要使用这种模式，那么要设置SO_OOBINLINE套接口选项：
+srtsocket(s,SOL_SOCKET,SO_OOBINLINE,&oobinline,sizeof(oobinline));
+既然带内数据在普通数据中间，那么怎么知道具体在哪呢，这就需要用函数ioctl(2)确定紧急指针的位置。
+?
+View Code
+C
+1
+2
+3
+4
+5
+6
+7
+#include<sys/ioctl.h>
+int
+flag
+;
+//如果被标记则为TRUE
+z
+=
+ioctl
+(
+s
+,
+SIOCATMARK
+,&
+amp
+;
+flag
+)
+;
+//成功返回0
+下面是内嵌带内数据的主要代码：
+?
+View Code
+C
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+z
+=
+srtsocket
+(
+s
+,
+SOL_SOCKET
+,
+SO_OOBINLINE
+,
+&
+amp
+;
+oobinline
+,
+sizeof
+(
+oobinline
+)
+)
+;
+for
+(
+;;
+)
+{
+ioctl
+(
+s
+,
+SIOCATMARK
+,&
+amp
+;
+flag
+)
+;
+recv
+(
+s
+,
+buf
+,
+sizeof
+(
+buf
+)
+,
+0
+)
+;
+}
