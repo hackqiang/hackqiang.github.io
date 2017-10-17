@@ -275,14 +275,14 @@
     </url>
 
     <url>
-        <loc>http://hackqiang.org/tags/bootloader/</loc>
+        <loc>http://hackqiang.org/tags/%E6%97%A5%E9%A3%9F/</loc>
         <lastmod>2017-10-17T10:59:56.018Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://hackqiang.org/tags/%E6%97%A5%E9%A3%9F/</loc>
+        <loc>http://hackqiang.org/tags/bootloader/</loc>
         <lastmod>2017-10-17T10:59:56.018Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -695,6 +695,13 @@
     </url>
 
     <url>
+        <loc>http://hackqiang.org/tags/%E6%B7%98%E5%AE%9D/</loc>
+        <lastmod>2017-10-17T10:59:56.182Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://hackqiang.org/tags/%E6%97%85%E6%B8%B8/</loc>
         <lastmod>2017-10-17T10:59:56.182Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -703,13 +710,6 @@
 
     <url>
         <loc>http://hackqiang.org/tags/%E8%A5%BF%E5%AE%89/</loc>
-        <lastmod>2017-10-17T10:59:56.182Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hackqiang.org/tags/%E6%B7%98%E5%AE%9D/</loc>
         <lastmod>2017-10-17T10:59:56.182Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -751,14 +751,14 @@
     </url>
 
     <url>
-        <loc>http://hackqiang.org/tags/Nexus-s/</loc>
+        <loc>http://hackqiang.org/tags/socket/</loc>
         <lastmod>2017-10-17T10:59:56.186Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://hackqiang.org/tags/socket/</loc>
+        <loc>http://hackqiang.org/tags/Nexus-s/</loc>
         <lastmod>2017-10-17T10:59:56.186Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
