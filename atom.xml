@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hackqiang.org/"/>
-  <updated>2017-10-17T11:14:57.750Z</updated>
+  <updated>2017-11-03T16:46:02.392Z</updated>
   <id>http://hackqiang.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>又一年</title>
+    <link href="http://hackqiang.org/2017/11/04/yearafteryear/"/>
+    <id>http://hackqiang.org/2017/11/04/yearafteryear/</id>
+    <published>2017-11-03T16:38:34.000Z</published>
+    <updated>2017-11-03T16:46:02.392Z</updated>
+    
+    <content type="html"><![CDATA[<p>鲜花网给我来了一封邮件，说我在14年的大约这个时候送出去一束花。<br>配送时间：2014年11月3日    时段： 上午<br>订购时间：2014/10/31 10:26:00<br>付款方式：网上支付    配送区域：郊区送货<br>给收货人留言：<br>在一起的八年，<br>有风有雨有彩虹；<br>有苦有泪有欢笑；<br>有争有吵有原谅；<br>以前从未放弃；<br>以后不会离开；<br>笨鸟永远守护猪崽。<br>特殊要求:无</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;鲜花网给我来了一封邮件，说我在14年的大约这个时候送出去一束花。&lt;br&gt;配送时间：2014年11月3日    时段： 上午&lt;br&gt;订购时间：2014/10/31 10:26:00&lt;br&gt;付款方式：网上支付    配送区域：郊区送货&lt;br&gt;给收货人留言：&lt;br&gt;在一起的八年，
+      
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="http://hackqiang.org/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello Hexo</title>
@@ -504,30 +527,6 @@
     </summary>
     
       <category term="乱七八糟" scheme="http://hackqiang.org/categories/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>莫名悲伤–原来自己老了</title>
-    <link href="http://hackqiang.org/2014/01/27/e8-8e-ab-e5-90-8d-e6-82-b2-e4-bc-a4-e5-8e-9f-e6-9d-a5-e8-87-aa-e5-b7-b1-e8-80-81-e4-ba-86/"/>
-    <id>http://hackqiang.org/2014/01/27/e8-8e-ab-e5-90-8d-e6-82-b2-e4-bc-a4-e5-8e-9f-e6-9d-a5-e8-87-aa-e5-b7-b1-e8-80-81-e4-ba-86/</id>
-    <published>2014-01-27T06:57:00.000Z</published>
-    <updated>2017-10-17T10:59:56.014Z</updated>
-    
-    <content type="html"><![CDATA[<p>喜欢听老歌，喜欢看老电脑。<br>幸好有你在身边，谢谢！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;喜欢听老歌，喜欢看老电脑。&lt;br&gt;幸好有你在身边，谢谢！&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
     
     
   </entry>
