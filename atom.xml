@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hackqiang.org/"/>
-  <updated>2017-11-03T16:46:02.392Z</updated>
+  <updated>2018-02-01T12:28:21.792Z</updated>
   <id>http://hackqiang.org/</id>
   
   <author>
@@ -15,6 +15,85 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>dactyl 配列烧写指南</title>
+    <link href="http://hackqiang.org/2018/02/01/dactyl-layout-flash-guide/"/>
+    <id>http://hackqiang.org/2018/02/01/dactyl-layout-flash-guide/</id>
+    <published>2018-02-01T13:33:51.000Z</published>
+    <updated>2018-02-01T12:28:21.792Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Step-1-在KLE上修改配列"><a href="#Step-1-在KLE上修改配列" class="headerlink" title="Step 1. 在KLE上修改配列"></a>Step 1. 在KLE上修改配列</h3><p>建议直接在我的配列基础上进行修改：</p><blockquote><p>[qiang’s dactyl layout][1]<br>[1]:<br><a href="http://www.keyboard-layout-editor.com/##@_name=qiang&#39;s%20dactyl%2F_ergodone%3B&amp;@_x:3.5&amp;c=%23e3e2dd&amp;p=DSA&amp;a:1&amp;f:4%3B&amp;=%23%0A3%0A%0A%0Af3&amp;_x:10.5%3B&amp;=*%0A8%0A%0A%0Af8%3B&amp;@_y:-0.875&amp;x:2.5%3B&amp;=%2F@%0A2%0A%0A%0Af2&amp;_x:1%3B&amp;=$%0A4%0A%0A%0Af4&amp;_x:8.5%3B&amp;=%2F&amp;%0A7%0A%0A%0Af7&amp;_x:1%3B&amp;=(%0A9%0A%0A%0Af11%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=%25%0A5%0A%0A%0Af5&amp;_x:6.5%3B&amp;=%5E%0A6%0A%0A%0Af6%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:5%3B&amp;=~%0A%60&amp;_a:1%3B&amp;=!%0A1%0A%0A%0Af1&amp;_x:14.5%3B&amp;=)%0A0%0A%0A%0Af12&amp;_a:7%3B&amp;=bs%0A%0A%0A%0Adel%3B&amp;@_y:-0.375&amp;x:3.5%3B&amp;=E%0A%0A%0A%0Abtn2&amp;_x:10.5&amp;a:3%3B&amp;=I%0A%0A%0A%0A8%0Aup%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=W%0A%0A%0A%0Amouse%20up&amp;_x:1%3B&amp;=R%0A%0A%0A%0AT&amp;_x:8.5&amp;a:3%3B&amp;=U%0A%0A%0A%0A7%0Ahome&amp;_x:1%3B&amp;=O%0A%0A%0A%0A9%0Apgup%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=T%0A%0A%0A%0A%7B%0A%5B&amp;_x:6.5%3B&amp;=Y%0A%0A%0A%0A%7D%0A%5D%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:7%3B&amp;=tab&amp;=Q%0A%0A%0A%0Abtn1&amp;_x:14.5%3B&amp;=P&amp;_a:5%3B&amp;=%7C%0A%5C%3B&amp;@_y:-0.375&amp;x:3.5&amp;a:7%3B&amp;=D%0A%0A%0A%0Amouse%20right&amp;_x:10.5&amp;a:3%3B&amp;=K%0A%0A%0A%0A5%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=S%0A%0A%0A%0Amouse%20down&amp;_x:1&amp;n:true%3B&amp;=F&amp;_x:8.5&amp;a:3&amp;n:true%3B&amp;=J%0A%0A%0A%0A4%0Aleft&amp;_x:1%3B&amp;=L%0A%0A%0A%0A6%0Aright%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=G%0A%0A%0A%0A%2F_%0A-&amp;_x:6.5%3B&amp;=H%0A%0A%0A%0A+%0A%2F=%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:7%3B&amp;=lctrl%0A%0A%0A%0Acaps&amp;=A%0A%0A%0A%0Amouse%20left&amp;_x:14.5&amp;a:5%3B&amp;=%2F:%0A%2F%3B&amp;=%22%0A&#39;%3B&amp;@_y:-0.375&amp;x:3.5&amp;a:7%3B&amp;=C%0A%0A%0A%0Acalc&amp;_x:10.5&amp;a:1%3B&amp;=%3C%0A,%0A%0A%0A2%0Adown%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=X%0A%0A%0A%0Awheeldown&amp;_x:1%3B&amp;=V%0A%0A%0A%0Ains&amp;_x:8.5&amp;a:3%3B&amp;=M%0A%0A%0A%0A1%0Aend&amp;_x:1&amp;a:1%3B&amp;=%3E%0A.%0A%0A%0A3%0Apgdn%3B&amp;@_y:-0.875&amp;x:5.5&amp;a:3%3B&amp;=B%0A%0A%0A%0A%22%0A&#39;&amp;_x:6.5&amp;a:7%3B&amp;=N%0A%0A%0A%0Anumlock%3B&amp;@_y:-0.875&amp;x:0.5%3B&amp;=lshift&amp;=Z%0A%0A%0A%0Awheelup&amp;_x:14.5&amp;a:5%3B&amp;=%3F%0A%2F%2F&amp;_a:7%3B&amp;=rshift%3B&amp;@_y:-0.375&amp;x:3.5%3B&amp;=lalt&amp;_x:10.5&amp;a:3%3B&amp;=%E2%86%91%0A%0A%0A%0A0%0Ains%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=win&amp;_x:1%3B&amp;=fn&amp;_x:8.5%3B&amp;=%E2%86%90%0A%0A%0A%0Ahome&amp;_x:1&amp;a:3%3B&amp;=%E2%86%93%0A%0A%0A%0A.%0Adel%3B&amp;@_y:-0.75&amp;x:0.5&amp;a:7%3B&amp;=esc&amp;=lctrl&amp;_x:14.5%3B&amp;=%E2%86%92%0A%0A%0A%0Aend&amp;=fn%3B&amp;@_r:30&amp;rx:6.5&amp;ry:4.25&amp;y:-1&amp;x:1&amp;a:1%3B&amp;=%7B%0A%5B%0A%0A%0Aprev&amp;_a:5%3B&amp;=%2F_%0A-%3B&amp;@_a:7&amp;h:2%3B&amp;=space%0A%0A%0A%0Aenter&amp;_h:2%3B&amp;=fn&amp;=home%0A%0A%0A%0Aplay%3B&amp;@_x:2%3B&amp;=end%0A%0A%0A%0Amute%3B&amp;@_r:-30&amp;rx:13&amp;y:-1&amp;x:-3&amp;a:5%3B&amp;=+%0A%2F=&amp;_a:1%3B&amp;=%7D%0A%5D%0A%0A%0Anext%3B&amp;@_x:-3&amp;a:7%3B&amp;=pgup%0A%0A%0A%0Avolup&amp;_h:2%3B&amp;=fn&amp;_h:2%3B&amp;=enter%0A%0A%0A%0Aspace%3B&amp;@_x:-3%3B&amp;=pgdn%0A%0A%0A%0Avoldn" target="_blank" rel="external">http://www.keyboard-layout-editor.com/##@_name=qiang&#39;s%20dactyl%2F_ergodone%3B&amp;@_x:3.5&amp;c=%23e3e2dd&amp;p=DSA&amp;a:1&amp;f:4%3B&amp;=%23%0A3%0A%0A%0Af3&amp;_x:10.5%3B&amp;=*%0A8%0A%0A%0Af8%3B&amp;@_y:-0.875&amp;x:2.5%3B&amp;=%2F@%0A2%0A%0A%0Af2&amp;_x:1%3B&amp;=$%0A4%0A%0A%0Af4&amp;_x:8.5%3B&amp;=%2F&amp;%0A7%0A%0A%0Af7&amp;_x:1%3B&amp;=(%0A9%0A%0A%0Af11%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=%25%0A5%0A%0A%0Af5&amp;_x:6.5%3B&amp;=%5E%0A6%0A%0A%0Af6%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:5%3B&amp;=~%0A%60&amp;_a:1%3B&amp;=!%0A1%0A%0A%0Af1&amp;_x:14.5%3B&amp;=)%0A0%0A%0A%0Af12&amp;_a:7%3B&amp;=bs%0A%0A%0A%0Adel%3B&amp;@_y:-0.375&amp;x:3.5%3B&amp;=E%0A%0A%0A%0Abtn2&amp;_x:10.5&amp;a:3%3B&amp;=I%0A%0A%0A%0A8%0Aup%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=W%0A%0A%0A%0Amouse%20up&amp;_x:1%3B&amp;=R%0A%0A%0A%0AT&amp;_x:8.5&amp;a:3%3B&amp;=U%0A%0A%0A%0A7%0Ahome&amp;_x:1%3B&amp;=O%0A%0A%0A%0A9%0Apgup%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=T%0A%0A%0A%0A%7B%0A%5B&amp;_x:6.5%3B&amp;=Y%0A%0A%0A%0A%7D%0A%5D%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:7%3B&amp;=tab&amp;=Q%0A%0A%0A%0Abtn1&amp;_x:14.5%3B&amp;=P&amp;_a:5%3B&amp;=%7C%0A%5C%3B&amp;@_y:-0.375&amp;x:3.5&amp;a:7%3B&amp;=D%0A%0A%0A%0Amouse%20right&amp;_x:10.5&amp;a:3%3B&amp;=K%0A%0A%0A%0A5%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=S%0A%0A%0A%0Amouse%20down&amp;_x:1&amp;n:true%3B&amp;=F&amp;_x:8.5&amp;a:3&amp;n:true%3B&amp;=J%0A%0A%0A%0A4%0Aleft&amp;_x:1%3B&amp;=L%0A%0A%0A%0A6%0Aright%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=G%0A%0A%0A%0A%2F_%0A-&amp;_x:6.5%3B&amp;=H%0A%0A%0A%0A+%0A%2F=%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:7%3B&amp;=lctrl%0A%0A%0A%0Acaps&amp;=A%0A%0A%0A%0Amouse%20left&amp;_x:14.5&amp;a:5%3B&amp;=%2F:%0A%2F%3B&amp;=%22%0A&#39;%3B&amp;@_y:-0.375&amp;x:3.5&amp;a:7%3B&amp;=C%0A%0A%0A%0Acalc&amp;_x:10.5&amp;a:1%3B&amp;=%3C%0A,%0A%0A%0A2%0Adown%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=X%0A%0A%0A%0Awheeldown&amp;_x:1%3B&amp;=V%0A%0A%0A%0Ains&amp;_x:8.5&amp;a:3%3B&amp;=M%0A%0A%0A%0A1%0Aend&amp;_x:1&amp;a:1%3B&amp;=%3E%0A.%0A%0A%0A3%0Apgdn%3B&amp;@_y:-0.875&amp;x:5.5&amp;a:3%3B&amp;=B%0A%0A%0A%0A%22%0A&#39;&amp;_x:6.5&amp;a:7%3B&amp;=N%0A%0A%0A%0Anumlock%3B&amp;@_y:-0.875&amp;x:0.5%3B&amp;=lshift&amp;=Z%0A%0A%0A%0Awheelup&amp;_x:14.5&amp;a:5%3B&amp;=%3F%0A%2F%2F&amp;_a:7%3B&amp;=rshift%3B&amp;@_y:-0.375&amp;x:3.5%3B&amp;=lalt&amp;_x:10.5&amp;a:3%3B&amp;=%E2%86%91%0A%0A%0A%0A0%0Ains%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=win&amp;_x:1%3B&amp;=fn&amp;_x:8.5%3B&amp;=%E2%86%90%0A%0A%0A%0Ahome&amp;_x:1&amp;a:3%3B&amp;=%E2%86%93%0A%0A%0A%0A.%0Adel%3B&amp;@_y:-0.75&amp;x:0.5&amp;a:7%3B&amp;=esc&amp;=lctrl&amp;_x:14.5%3B&amp;=%E2%86%92%0A%0A%0A%0Aend&amp;=fn%3B&amp;@_r:30&amp;rx:6.5&amp;ry:4.25&amp;y:-1&amp;x:1&amp;a:1%3B&amp;=%7B%0A%5B%0A%0A%0Aprev&amp;_a:5%3B&amp;=%2F_%0A-%3B&amp;@_a:7&amp;h:2%3B&amp;=space%0A%0A%0A%0Aenter&amp;_h:2%3B&amp;=fn&amp;=home%0A%0A%0A%0Aplay%3B&amp;@_x:2%3B&amp;=end%0A%0A%0A%0Amute%3B&amp;@_r:-30&amp;rx:13&amp;y:-1&amp;x:-3&amp;a:5%3B&amp;=+%0A%2F=&amp;_a:1%3B&amp;=%7D%0A%5D%0A%0A%0Anext%3B&amp;@_x:-3&amp;a:7%3B&amp;=pgup%0A%0A%0A%0Avolup&amp;_h:2%3B&amp;=fn&amp;_h:2%3B&amp;=enter%0A%0A%0A%0Aspace%3B&amp;@_x:-3%3B&amp;=pgdn%0A%0A%0A%0Avoldn</a></p></blockquote><p>修改好后，拷贝raw里的数据:<br><img src="/2018/02/01/dactyl-layout-flash-guide/1.jpg" alt=""></p><h3 id="Step-2-在TKG上烧配列"><a href="#Step-2-在TKG上烧配列" class="headerlink" title="Step 2. 在TKG上烧配列"></a>Step 2. 在TKG上烧配列</h3><blockquote><p>需要使用chrome浏览器，并且安装好我修改的 <a href="https://github.com/hackqiang/tkg/raw/master/tkg-chrome-app.crx" target="_blank" rel="external">TKG插件</a> 。</p></blockquote><ul><li><p>打开支持dactyl的TKG: <a href="http://xfactory.top/tkg/" target="_blank" rel="external">http://xfactory.top/tkg/</a></p></li><li><p>键盘选择 <code>dactyl ErgoDone</code></p></li><li><p>层模式选择 <code>简单</code></p></li><li><p>刚刚复制的raw粘贴到 <code>复合层里</code></p></li><li><p>然后拔下usb线，按住键盘的 <code>T</code> 插上usb线，会发现 <code>烧写.eep文件按钮</code> 可用了，点击等待烧写结束。</p></li></ul><p>配置参考下图：<br><img src="/2018/02/01/dactyl-layout-flash-guide/2.jpg" alt=""></p><h4 id="Special-thanks-to："><a href="#Special-thanks-to：" class="headerlink" title="Special thanks to："></a>Special thanks to：</h4><ul><li>Matthew Adereth：dactyl的作者，得益于他开源了设计文件(openscad)，我才能修改与打印</li><li>K.T.E.C：提供了平民版的ergodox – ergodone，并开源了固件，我的dactyl就是直接用的ergodone固件 </li><li>lan Prest：KLE的作者 </li><li>kai叔：TKG的作者，实现了在线刷配列！ </li><li>yang：提供了N多教程</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Step-1-在KLE上修改配列&quot;&gt;&lt;a href=&quot;#Step-1-在KLE上修改配列&quot; class=&quot;headerlink&quot; title=&quot;Step 1. 在KLE上修改配列&quot;&gt;&lt;/a&gt;Step 1. 在KLE上修改配列&lt;/h3&gt;&lt;p&gt;建议直接在我的配列基础上
+      
+    
+    </summary>
+    
+      <category term="DIY" scheme="http://hackqiang.org/categories/DIY/"/>
+    
+    
+      <category term="DIY" scheme="http://hackqiang.org/tags/DIY/"/>
+    
+      <category term="keyboard" scheme="http://hackqiang.org/tags/keyboard/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://hackqiang.org/2018/01/30/ipfs-init/"/>
+    <id>http://hackqiang.org/2018/01/30/ipfs-init/</id>
+    <published>2018-01-30T15:36:31.503Z</published>
+    <updated>2018-01-30T15:36:31.509Z</updated>
+    
+    <content type="html"><![CDATA[<p>ipfs init<br>ipfs config –json API.HTTPHeaders.Access-Control-Allow-Methods ‘[“PUT”, “GET”, “POST”, “OPTIONS”]’<br>ipfs config –json API.HTTPHeaders.Access-Control-Allow-Origin ‘[“*”]’<br>ipfs daemon</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ipfs init&lt;br&gt;ipfs config –json API.HTTPHeaders.Access-Control-Allow-Methods ‘[“PUT”, “GET”, “POST”, “OPTIONS”]’&lt;br&gt;ipfs config –json API.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始做一把无线键盘</title>
+    <link href="http://hackqiang.org/2017/11/25/make-wireless-keyboard-from-scratch/"/>
+    <id>http://hackqiang.org/2017/11/25/make-wireless-keyboard-from-scratch/</id>
+    <published>2017-11-25T15:19:17.000Z</published>
+    <updated>2018-02-01T12:19:05.162Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>说是从零开始，其实那是吹牛的，毕竟没必要自己造轮子。</p></blockquote><p>这篇文章主要是记录下自己做外壳的经历。</p><h3 id="1-用-KLE-设计自己的配列："><a href="#1-用-KLE-设计自己的配列：" class="headerlink" title="1. 用 KLE 设计自己的配列："></a>1. 用 <a href="http://www.keyboard-layout-editor.com" target="_blank" rel="external">KLE</a> 设计自己的配列：</h3><p><img src="/2017/11/25/make-wireless-keyboard-from-scratch/origin_martix.jpg" alt=""></p><h3 id="2-使用-swillkb-来生成初步的外壳文件，在yang的建议下，这次打算尝试全高壳："><a href="#2-使用-swillkb-来生成初步的外壳文件，在yang的建议下，这次打算尝试全高壳：" class="headerlink" title="2. 使用 swillkb 来生成初步的外壳文件，在yang的建议下，这次打算尝试全高壳："></a>2. 使用 <a href="http://builder.swillkb.com/" target="_blank" rel="external">swillkb</a> 来生成初步的外壳文件，在yang的建议下，这次打算尝试全高壳：</h3><p><img src="/2017/11/25/make-wireless-keyboard-from-scratch/swillkb.jpg" alt=""></p><h3 id="3-在-CAD-Output-中，下载-Switch-Layer-Top-Layer-以及-Closed-Layer-DXF文件。"><a href="#3-在-CAD-Output-中，下载-Switch-Layer-Top-Layer-以及-Closed-Layer-DXF文件。" class="headerlink" title="3. 在 CAD Output 中，下载 Switch Layer , Top Layer 以及 Closed Layer DXF文件。"></a>3. 在 <code>CAD Output</code> 中，下载 <code>Switch Layer</code> , <code>Top Layer</code> 以及 <code>Closed Layer</code> DXF文件。</h3><h3 id="4-top外壳设计，因为我打算把定位板和边框做在一起，所以就先合并-Switch-Layer-和-Top-Layer："><a href="#4-top外壳设计，因为我打算把定位板和边框做在一起，所以就先合并-Switch-Layer-和-Top-Layer：" class="headerlink" title="4. top外壳设计，因为我打算把定位板和边框做在一起，所以就先合并 Switch Layer 和 Top Layer："></a>4. top外壳设计，因为我打算把定位板和边框做在一起，所以就先合并 <code>Switch Layer</code> 和 <code>Top Layer</code>：</h3><p><img src="/2017/11/25/make-wireless-keyboard-from-scratch/top_combained.jpg" alt=""></p><blockquote><p>一些参数：<br>定位板厚度：4.2mm<br>外框高度：7.2mm<br>边框圆角半径：2mm</p></blockquote><p>最终生成的3d图大概是这样的：<br><img src="/2017/11/25/make-wireless-keyboard-from-scratch/top_stl.jpg" alt=""><br>(左下角打算做个logo嵌进去）</p><h3 id="5-底部外壳设计"><a href="#5-底部外壳设计" class="headerlink" title="5. 底部外壳设计"></a>5. 底部外壳设计</h3><blockquote><p>一些参数：<br>底板厚度：1mm，<br>边框厚度（含底板）：11mm，<br>铜柱外露高度10mm，<br>需要m2*14铜柱4根。</p></blockquote><h2 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;说是从零开始，其实那是吹牛的，毕竟没必要自己造轮子。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这篇文章主要是记录下自己做外壳的经历。&lt;/p&gt;
+&lt;h3 id=&quot;1-用-KLE-设计自己的配列：&quot;&gt;&lt;a href=&quot;#1-用-KLE-设计自己的配列：
+      
+    
+    </summary>
+    
+      <category term="DIY" scheme="http://hackqiang.org/categories/DIY/"/>
+    
+    
+      <category term="DIY" scheme="http://hackqiang.org/tags/DIY/"/>
+    
+      <category term="keyboard" scheme="http://hackqiang.org/tags/keyboard/"/>
+    
+  </entry>
   
   <entry>
     <title>又一年</title>
@@ -263,9 +342,9 @@
       <category term="DIY" scheme="http://hackqiang.org/categories/DIY/"/>
     
     
-      <category term="atreus" scheme="http://hackqiang.org/tags/atreus/"/>
-    
       <category term="keyboard" scheme="http://hackqiang.org/tags/keyboard/"/>
+    
+      <category term="atreus" scheme="http://hackqiang.org/tags/atreus/"/>
     
   </entry>
   
@@ -316,9 +395,9 @@
       <category term="DIY" scheme="http://hackqiang.org/categories/DIY/"/>
     
     
-      <category term="keyboard" scheme="http://hackqiang.org/tags/keyboard/"/>
-    
       <category term="DIY" scheme="http://hackqiang.org/tags/DIY/"/>
+    
+      <category term="keyboard" scheme="http://hackqiang.org/tags/keyboard/"/>
     
   </entry>
   
@@ -453,80 +532,6 @@
     </summary>
     
       <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2014年终总结</title>
-    <link href="http://hackqiang.org/2015/01/22/2014-e5-b9-b4-e7-bb-88-e6-80-bb-e7-bb-93/"/>
-    <id>http://hackqiang.org/2015/01/22/2014-e5-b9-b4-e7-bb-88-e6-80-bb-e7-bb-93/</id>
-    <published>2015-01-22T02:29:00.000Z</published>
-    <updated>2017-10-17T10:59:56.022Z</updated>
-    
-    <content type="html"><![CDATA[<p>2014，是忙碌的一年，也是碌碌无为的一年。<br>工作<br>年初的时候，进入了一个新的项目组，进行kernel相关的工作，期间分析了很多oops的问题，得到了HQ资深工程师的培训，学习了众多samsung对kernel改进的patch，重温了VFS，MM，scheduler等模块，总体上来说，虽然没有学习到太多新鲜的东西，但是对kernel skill帮助是很大的。<br>随着公司大力推动tizen，下半年开始接触tizen，期间做了一些tizen移植的工作，移植tizen到SAMSUNG私有的电视板子上，后来又移植到了开源硬件cubieboard上。<br>生活<br>在女朋友家过了一个很有意思的春节。<br>因为担心限牌，在丈母娘的支持下买了车–2012款福克斯，手动的，可惜不是2.0排量，感觉还行。6月份拿到驾照，到目前为止已经有3个违章。<br>10月终于收房了，因为是精装交付的，所以自己只搞了软装，元旦节就正式入住了。<br>今年突然流行起了智能家居，我也跟风了解了下，并众筹了一台3D打印机，UM2结构的，感觉应该会不错。<br>今年一整年的博文还是各位数，发现自己越来越不注重记录了，以后一定要改变。<br>现在已经用todo list来管理自己的生活了。<br>记得3年前写了一封给未来自己的信，其中提出了一些要求，现在发现完全没有做到，非常的惭愧。所以在新的一年，我希望自己能做到：<br>少玩游戏<br>注重知识的积累（记录）<br>养成早起的习惯<br>更用心的对待周围的人和事</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;2014，是忙碌的一年，也是碌碌无为的一年。&lt;br&gt;工作&lt;br&gt;年初的时候，进入了一个新的项目组，进行kernel相关的工作，期间分析了很多oops的问题，得到了HQ资深工程师的培训，学习了众多samsung对kernel改进的patch，重温了VFS，MM，schedul
-      
-    
-    </summary>
-    
-      <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
-    
-    
-      <category term="总结" scheme="http://hackqiang.org/tags/%E6%80%BB%E7%BB%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>补：2013年终总结</title>
-    <link href="http://hackqiang.org/2015/01/21/e8-a1-a5-ef-bc-9a2013-e5-b9-b4-e7-bb-88-e6-80-bb-e7-bb-93/"/>
-    <id>http://hackqiang.org/2015/01/21/e8-a1-a5-ef-bc-9a2013-e5-b9-b4-e7-bb-88-e6-80-bb-e7-bb-93/</id>
-    <published>2015-01-21T06:29:00.000Z</published>
-    <updated>2017-10-17T10:59:56.042Z</updated>
-    
-    <content type="html"><![CDATA[<p>出大事了，2013年我竟然没有写年终总结？<br>年纪大了，记忆越来越不行了，只能从about页面中的近况慢慢回忆2013年了。<br>工作<br>2013年，是我到SAMSUNG的第二年，有关eCos的项目基本结束了，当时在HQ经历了2轮demo，虽然最终没有量产计划，但是还是拿到了一个不小的奖项。<br>然后开始专注与另一个SAMSUNG TV OS（因为保密协议，不能透露太多），去HQ出差两次，也得到了韩国工程师的赞誉，算是为我们项目组挣了面子。<br>下半年开始了关于JTAG performance调试器的研究，分析了TARCE32的工作机理，深度的学习了EJTAG协议和openJTAG硬件，并对FPGA有一定的了解。<br>生活<br>2013年最大的事就是房子买到了。我清楚的记得，我和女朋友在售楼处刷卡交钱的“喜悦”，虽然面积很小–只有89平，虽然位置很偏–距离新街口30+km，虽然交房很晚–2014年9月30日，但是我们还是喜欢的不得了。<br>在我的6通电直梦被我女朋友一次又一次扑灭的时候，我开始了DIY四轴的征途，学习开源的姿态控制代码，硬件，综合比较各种方案，从硬件到软件，都研究了一把。最终确定自己的设计，期间学会了用git与朋友协作，使用Kicad画原理图和PCB。这个项目的输出：<a href="https://bitbucket.org/hackqiang" target="_blank" rel="external">https://bitbucket.org/hackqiang</a><br>因为公司经常有编程大赛，有段时间一有空就去POJ刷题，可惜自己资质不行，距离大牛还很远，慢慢的拿不到成绩也冷淡了下来。<br>总体上来说，2013年不管是工作上的收获还是生活上的点滴，都给我很不错的充实感，可能唯一的遗憾就是忘了写年终总结了。^_^||</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;出大事了，2013年我竟然没有写年终总结？&lt;br&gt;年纪大了，记忆越来越不行了，只能从about页面中的近况慢慢回忆2013年了。&lt;br&gt;工作&lt;br&gt;2013年，是我到SAMSUNG的第二年，有关eCos的项目基本结束了，当时在HQ经历了2轮demo，虽然最终没有量产计划，但
-      
-    
-    </summary>
-    
-      <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
-    
-    
-      <category term="总结" scheme="http://hackqiang.org/tags/%E6%80%BB%E7%BB%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>活着</title>
-    <link href="http://hackqiang.org/2014/02/27/e6-b4-bb-e7-9d-80/"/>
-    <id>http://hackqiang.org/2014/02/27/e6-b4-bb-e7-9d-80/</id>
-    <published>2014-02-26T17:44:00.000Z</published>
-    <updated>2017-10-17T10:59:55.958Z</updated>
-    
-    <content type="html"><![CDATA[<p>看得我好揪心，也不懂他活着的意义。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;看得我好揪心，也不懂他活着的意义。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="乱七八糟" scheme="http://hackqiang.org/categories/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/"/>
     
     
   </entry>

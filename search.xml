@@ -4,6 +4,101 @@
   
     
     <entry>
+      <title><![CDATA[dactyl 配列烧写指南]]></title>
+      <url>http://hackqiang.org/2018/02/01/dactyl-layout-flash-guide/</url>
+      <content type="html"><![CDATA[<h3 id="Step-1-在KLE上修改配列"><a href="#Step-1-在KLE上修改配列" class="headerlink" title="Step 1. 在KLE上修改配列"></a>Step 1. 在KLE上修改配列</h3><p>建议直接在我的配列基础上进行修改：</p>
+<blockquote>
+<p>[qiang’s dactyl layout][1]<br>[1]:<br><a href="http://www.keyboard-layout-editor.com/##@_name=qiang&#39;s%20dactyl%2F_ergodone%3B&amp;@_x:3.5&amp;c=%23e3e2dd&amp;p=DSA&amp;a:1&amp;f:4%3B&amp;=%23%0A3%0A%0A%0Af3&amp;_x:10.5%3B&amp;=*%0A8%0A%0A%0Af8%3B&amp;@_y:-0.875&amp;x:2.5%3B&amp;=%2F@%0A2%0A%0A%0Af2&amp;_x:1%3B&amp;=$%0A4%0A%0A%0Af4&amp;_x:8.5%3B&amp;=%2F&amp;%0A7%0A%0A%0Af7&amp;_x:1%3B&amp;=(%0A9%0A%0A%0Af11%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=%25%0A5%0A%0A%0Af5&amp;_x:6.5%3B&amp;=%5E%0A6%0A%0A%0Af6%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:5%3B&amp;=~%0A%60&amp;_a:1%3B&amp;=!%0A1%0A%0A%0Af1&amp;_x:14.5%3B&amp;=)%0A0%0A%0A%0Af12&amp;_a:7%3B&amp;=bs%0A%0A%0A%0Adel%3B&amp;@_y:-0.375&amp;x:3.5%3B&amp;=E%0A%0A%0A%0Abtn2&amp;_x:10.5&amp;a:3%3B&amp;=I%0A%0A%0A%0A8%0Aup%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=W%0A%0A%0A%0Amouse%20up&amp;_x:1%3B&amp;=R%0A%0A%0A%0AT&amp;_x:8.5&amp;a:3%3B&amp;=U%0A%0A%0A%0A7%0Ahome&amp;_x:1%3B&amp;=O%0A%0A%0A%0A9%0Apgup%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=T%0A%0A%0A%0A%7B%0A%5B&amp;_x:6.5%3B&amp;=Y%0A%0A%0A%0A%7D%0A%5D%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:7%3B&amp;=tab&amp;=Q%0A%0A%0A%0Abtn1&amp;_x:14.5%3B&amp;=P&amp;_a:5%3B&amp;=%7C%0A%5C%3B&amp;@_y:-0.375&amp;x:3.5&amp;a:7%3B&amp;=D%0A%0A%0A%0Amouse%20right&amp;_x:10.5&amp;a:3%3B&amp;=K%0A%0A%0A%0A5%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=S%0A%0A%0A%0Amouse%20down&amp;_x:1&amp;n:true%3B&amp;=F&amp;_x:8.5&amp;a:3&amp;n:true%3B&amp;=J%0A%0A%0A%0A4%0Aleft&amp;_x:1%3B&amp;=L%0A%0A%0A%0A6%0Aright%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=G%0A%0A%0A%0A%2F_%0A-&amp;_x:6.5%3B&amp;=H%0A%0A%0A%0A+%0A%2F=%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:7%3B&amp;=lctrl%0A%0A%0A%0Acaps&amp;=A%0A%0A%0A%0Amouse%20left&amp;_x:14.5&amp;a:5%3B&amp;=%2F:%0A%2F%3B&amp;=%22%0A&#39;%3B&amp;@_y:-0.375&amp;x:3.5&amp;a:7%3B&amp;=C%0A%0A%0A%0Acalc&amp;_x:10.5&amp;a:1%3B&amp;=%3C%0A,%0A%0A%0A2%0Adown%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=X%0A%0A%0A%0Awheeldown&amp;_x:1%3B&amp;=V%0A%0A%0A%0Ains&amp;_x:8.5&amp;a:3%3B&amp;=M%0A%0A%0A%0A1%0Aend&amp;_x:1&amp;a:1%3B&amp;=%3E%0A.%0A%0A%0A3%0Apgdn%3B&amp;@_y:-0.875&amp;x:5.5&amp;a:3%3B&amp;=B%0A%0A%0A%0A%22%0A&#39;&amp;_x:6.5&amp;a:7%3B&amp;=N%0A%0A%0A%0Anumlock%3B&amp;@_y:-0.875&amp;x:0.5%3B&amp;=lshift&amp;=Z%0A%0A%0A%0Awheelup&amp;_x:14.5&amp;a:5%3B&amp;=%3F%0A%2F%2F&amp;_a:7%3B&amp;=rshift%3B&amp;@_y:-0.375&amp;x:3.5%3B&amp;=lalt&amp;_x:10.5&amp;a:3%3B&amp;=%E2%86%91%0A%0A%0A%0A0%0Ains%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=win&amp;_x:1%3B&amp;=fn&amp;_x:8.5%3B&amp;=%E2%86%90%0A%0A%0A%0Ahome&amp;_x:1&amp;a:3%3B&amp;=%E2%86%93%0A%0A%0A%0A.%0Adel%3B&amp;@_y:-0.75&amp;x:0.5&amp;a:7%3B&amp;=esc&amp;=lctrl&amp;_x:14.5%3B&amp;=%E2%86%92%0A%0A%0A%0Aend&amp;=fn%3B&amp;@_r:30&amp;rx:6.5&amp;ry:4.25&amp;y:-1&amp;x:1&amp;a:1%3B&amp;=%7B%0A%5B%0A%0A%0Aprev&amp;_a:5%3B&amp;=%2F_%0A-%3B&amp;@_a:7&amp;h:2%3B&amp;=space%0A%0A%0A%0Aenter&amp;_h:2%3B&amp;=fn&amp;=home%0A%0A%0A%0Aplay%3B&amp;@_x:2%3B&amp;=end%0A%0A%0A%0Amute%3B&amp;@_r:-30&amp;rx:13&amp;y:-1&amp;x:-3&amp;a:5%3B&amp;=+%0A%2F=&amp;_a:1%3B&amp;=%7D%0A%5D%0A%0A%0Anext%3B&amp;@_x:-3&amp;a:7%3B&amp;=pgup%0A%0A%0A%0Avolup&amp;_h:2%3B&amp;=fn&amp;_h:2%3B&amp;=enter%0A%0A%0A%0Aspace%3B&amp;@_x:-3%3B&amp;=pgdn%0A%0A%0A%0Avoldn" target="_blank" rel="external">http://www.keyboard-layout-editor.com/##@_name=qiang&#39;s%20dactyl%2F_ergodone%3B&amp;@_x:3.5&amp;c=%23e3e2dd&amp;p=DSA&amp;a:1&amp;f:4%3B&amp;=%23%0A3%0A%0A%0Af3&amp;_x:10.5%3B&amp;=*%0A8%0A%0A%0Af8%3B&amp;@_y:-0.875&amp;x:2.5%3B&amp;=%2F@%0A2%0A%0A%0Af2&amp;_x:1%3B&amp;=$%0A4%0A%0A%0Af4&amp;_x:8.5%3B&amp;=%2F&amp;%0A7%0A%0A%0Af7&amp;_x:1%3B&amp;=(%0A9%0A%0A%0Af11%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=%25%0A5%0A%0A%0Af5&amp;_x:6.5%3B&amp;=%5E%0A6%0A%0A%0Af6%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:5%3B&amp;=~%0A%60&amp;_a:1%3B&amp;=!%0A1%0A%0A%0Af1&amp;_x:14.5%3B&amp;=)%0A0%0A%0A%0Af12&amp;_a:7%3B&amp;=bs%0A%0A%0A%0Adel%3B&amp;@_y:-0.375&amp;x:3.5%3B&amp;=E%0A%0A%0A%0Abtn2&amp;_x:10.5&amp;a:3%3B&amp;=I%0A%0A%0A%0A8%0Aup%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=W%0A%0A%0A%0Amouse%20up&amp;_x:1%3B&amp;=R%0A%0A%0A%0AT&amp;_x:8.5&amp;a:3%3B&amp;=U%0A%0A%0A%0A7%0Ahome&amp;_x:1%3B&amp;=O%0A%0A%0A%0A9%0Apgup%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=T%0A%0A%0A%0A%7B%0A%5B&amp;_x:6.5%3B&amp;=Y%0A%0A%0A%0A%7D%0A%5D%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:7%3B&amp;=tab&amp;=Q%0A%0A%0A%0Abtn1&amp;_x:14.5%3B&amp;=P&amp;_a:5%3B&amp;=%7C%0A%5C%3B&amp;@_y:-0.375&amp;x:3.5&amp;a:7%3B&amp;=D%0A%0A%0A%0Amouse%20right&amp;_x:10.5&amp;a:3%3B&amp;=K%0A%0A%0A%0A5%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=S%0A%0A%0A%0Amouse%20down&amp;_x:1&amp;n:true%3B&amp;=F&amp;_x:8.5&amp;a:3&amp;n:true%3B&amp;=J%0A%0A%0A%0A4%0Aleft&amp;_x:1%3B&amp;=L%0A%0A%0A%0A6%0Aright%3B&amp;@_y:-0.875&amp;x:5.5%3B&amp;=G%0A%0A%0A%0A%2F_%0A-&amp;_x:6.5%3B&amp;=H%0A%0A%0A%0A+%0A%2F=%3B&amp;@_y:-0.875&amp;x:0.5&amp;a:7%3B&amp;=lctrl%0A%0A%0A%0Acaps&amp;=A%0A%0A%0A%0Amouse%20left&amp;_x:14.5&amp;a:5%3B&amp;=%2F:%0A%2F%3B&amp;=%22%0A&#39;%3B&amp;@_y:-0.375&amp;x:3.5&amp;a:7%3B&amp;=C%0A%0A%0A%0Acalc&amp;_x:10.5&amp;a:1%3B&amp;=%3C%0A,%0A%0A%0A2%0Adown%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=X%0A%0A%0A%0Awheeldown&amp;_x:1%3B&amp;=V%0A%0A%0A%0Ains&amp;_x:8.5&amp;a:3%3B&amp;=M%0A%0A%0A%0A1%0Aend&amp;_x:1&amp;a:1%3B&amp;=%3E%0A.%0A%0A%0A3%0Apgdn%3B&amp;@_y:-0.875&amp;x:5.5&amp;a:3%3B&amp;=B%0A%0A%0A%0A%22%0A&#39;&amp;_x:6.5&amp;a:7%3B&amp;=N%0A%0A%0A%0Anumlock%3B&amp;@_y:-0.875&amp;x:0.5%3B&amp;=lshift&amp;=Z%0A%0A%0A%0Awheelup&amp;_x:14.5&amp;a:5%3B&amp;=%3F%0A%2F%2F&amp;_a:7%3B&amp;=rshift%3B&amp;@_y:-0.375&amp;x:3.5%3B&amp;=lalt&amp;_x:10.5&amp;a:3%3B&amp;=%E2%86%91%0A%0A%0A%0A0%0Ains%3B&amp;@_y:-0.875&amp;x:2.5&amp;a:7%3B&amp;=win&amp;_x:1%3B&amp;=fn&amp;_x:8.5%3B&amp;=%E2%86%90%0A%0A%0A%0Ahome&amp;_x:1&amp;a:3%3B&amp;=%E2%86%93%0A%0A%0A%0A.%0Adel%3B&amp;@_y:-0.75&amp;x:0.5&amp;a:7%3B&amp;=esc&amp;=lctrl&amp;_x:14.5%3B&amp;=%E2%86%92%0A%0A%0A%0Aend&amp;=fn%3B&amp;@_r:30&amp;rx:6.5&amp;ry:4.25&amp;y:-1&amp;x:1&amp;a:1%3B&amp;=%7B%0A%5B%0A%0A%0Aprev&amp;_a:5%3B&amp;=%2F_%0A-%3B&amp;@_a:7&amp;h:2%3B&amp;=space%0A%0A%0A%0Aenter&amp;_h:2%3B&amp;=fn&amp;=home%0A%0A%0A%0Aplay%3B&amp;@_x:2%3B&amp;=end%0A%0A%0A%0Amute%3B&amp;@_r:-30&amp;rx:13&amp;y:-1&amp;x:-3&amp;a:5%3B&amp;=+%0A%2F=&amp;_a:1%3B&amp;=%7D%0A%5D%0A%0A%0Anext%3B&amp;@_x:-3&amp;a:7%3B&amp;=pgup%0A%0A%0A%0Avolup&amp;_h:2%3B&amp;=fn&amp;_h:2%3B&amp;=enter%0A%0A%0A%0Aspace%3B&amp;@_x:-3%3B&amp;=pgdn%0A%0A%0A%0Avoldn</a></p>
+</blockquote>
+<p>修改好后，拷贝raw里的数据:<br><img src="/2018/02/01/dactyl-layout-flash-guide/1.jpg" alt=""></p>
+<h3 id="Step-2-在TKG上烧配列"><a href="#Step-2-在TKG上烧配列" class="headerlink" title="Step 2. 在TKG上烧配列"></a>Step 2. 在TKG上烧配列</h3><blockquote>
+<p>需要使用chrome浏览器，并且安装好我修改的 <a href="https://github.com/hackqiang/tkg/raw/master/tkg-chrome-app.crx" target="_blank" rel="external">TKG插件</a> 。</p>
+</blockquote>
+<ul>
+<li><p>打开支持dactyl的TKG: <a href="http://xfactory.top/tkg/" target="_blank" rel="external">http://xfactory.top/tkg/</a></p>
+</li>
+<li><p>键盘选择 <code>dactyl ErgoDone</code></p>
+</li>
+<li><p>层模式选择 <code>简单</code></p>
+</li>
+<li><p>刚刚复制的raw粘贴到 <code>复合层里</code></p>
+</li>
+<li><p>然后拔下usb线，按住键盘的 <code>T</code> 插上usb线，会发现 <code>烧写.eep文件按钮</code> 可用了，点击等待烧写结束。</p>
+</li>
+</ul>
+<p>配置参考下图：<br><img src="/2018/02/01/dactyl-layout-flash-guide/2.jpg" alt=""></p>
+<h4 id="Special-thanks-to："><a href="#Special-thanks-to：" class="headerlink" title="Special thanks to："></a>Special thanks to：</h4><ul>
+<li>Matthew Adereth：dactyl的作者，得益于他开源了设计文件(openscad)，我才能修改与打印</li>
+<li>K.T.E.C：提供了平民版的ergodox – ergodone，并开源了固件，我的dactyl就是直接用的ergodone固件 </li>
+<li>lan Prest：KLE的作者 </li>
+<li>kai叔：TKG的作者，实现了在线刷配列！ </li>
+<li>yang：提供了N多教程</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> DIY </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> DIY </tag>
+            
+            <tag> keyboard </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>http://hackqiang.org/2018/01/30/ipfs-init/</url>
+      <content type="html"><![CDATA[<p>ipfs init<br>ipfs config –json API.HTTPHeaders.Access-Control-Allow-Methods ‘[“PUT”, “GET”, “POST”, “OPTIONS”]’<br>ipfs config –json API.HTTPHeaders.Access-Control-Allow-Origin ‘[“*”]’<br>ipfs daemon</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[从零开始做一把无线键盘]]></title>
+      <url>http://hackqiang.org/2017/11/25/make-wireless-keyboard-from-scratch/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>说是从零开始，其实那是吹牛的，毕竟没必要自己造轮子。</p>
+</blockquote>
+<p>这篇文章主要是记录下自己做外壳的经历。</p>
+<h3 id="1-用-KLE-设计自己的配列："><a href="#1-用-KLE-设计自己的配列：" class="headerlink" title="1. 用 KLE 设计自己的配列："></a>1. 用 <a href="http://www.keyboard-layout-editor.com" target="_blank" rel="external">KLE</a> 设计自己的配列：</h3><p><img src="/2017/11/25/make-wireless-keyboard-from-scratch/origin_martix.jpg" alt=""></p>
+<h3 id="2-使用-swillkb-来生成初步的外壳文件，在yang的建议下，这次打算尝试全高壳："><a href="#2-使用-swillkb-来生成初步的外壳文件，在yang的建议下，这次打算尝试全高壳：" class="headerlink" title="2. 使用 swillkb 来生成初步的外壳文件，在yang的建议下，这次打算尝试全高壳："></a>2. 使用 <a href="http://builder.swillkb.com/" target="_blank" rel="external">swillkb</a> 来生成初步的外壳文件，在yang的建议下，这次打算尝试全高壳：</h3><p><img src="/2017/11/25/make-wireless-keyboard-from-scratch/swillkb.jpg" alt=""></p>
+<h3 id="3-在-CAD-Output-中，下载-Switch-Layer-Top-Layer-以及-Closed-Layer-DXF文件。"><a href="#3-在-CAD-Output-中，下载-Switch-Layer-Top-Layer-以及-Closed-Layer-DXF文件。" class="headerlink" title="3. 在 CAD Output 中，下载 Switch Layer , Top Layer 以及 Closed Layer DXF文件。"></a>3. 在 <code>CAD Output</code> 中，下载 <code>Switch Layer</code> , <code>Top Layer</code> 以及 <code>Closed Layer</code> DXF文件。</h3><h3 id="4-top外壳设计，因为我打算把定位板和边框做在一起，所以就先合并-Switch-Layer-和-Top-Layer："><a href="#4-top外壳设计，因为我打算把定位板和边框做在一起，所以就先合并-Switch-Layer-和-Top-Layer：" class="headerlink" title="4. top外壳设计，因为我打算把定位板和边框做在一起，所以就先合并 Switch Layer 和 Top Layer："></a>4. top外壳设计，因为我打算把定位板和边框做在一起，所以就先合并 <code>Switch Layer</code> 和 <code>Top Layer</code>：</h3><p><img src="/2017/11/25/make-wireless-keyboard-from-scratch/top_combained.jpg" alt=""></p>
+<blockquote>
+<p>一些参数：<br>定位板厚度：4.2mm<br>外框高度：7.2mm<br>边框圆角半径：2mm</p>
+</blockquote>
+<p>最终生成的3d图大概是这样的：<br><img src="/2017/11/25/make-wireless-keyboard-from-scratch/top_stl.jpg" alt=""><br>(左下角打算做个logo嵌进去）</p>
+<h3 id="5-底部外壳设计"><a href="#5-底部外壳设计" class="headerlink" title="5. 底部外壳设计"></a>5. 底部外壳设计</h3><blockquote>
+<p>一些参数：<br>底板厚度：1mm，<br>边框厚度（含底板）：11mm，<br>铜柱外露高度10mm，<br>需要m2*14铜柱4根。</p>
+</blockquote>
+<h2 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h2>]]></content>
+      
+        <categories>
+            
+            <category> DIY </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> DIY </tag>
+            
+            <tag> keyboard </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[又一年]]></title>
       <url>http://hackqiang.org/2017/11/04/yearafteryear/</url>
       <content type="html"><![CDATA[<p>鲜花网给我来了一封邮件，说我在14年的大约这个时候送出去一束花。<br>配送时间：2014年11月3日    时段： 上午<br>订购时间：2014/10/31 10:26:00<br>付款方式：网上支付    配送区域：郊区送货<br>给收货人留言：<br>在一起的八年，<br>有风有雨有彩虹；<br>有苦有泪有欢笑；<br>有争有吵有原谅；<br>以前从未放弃；<br>以后不会离开；<br>笨鸟永远守护猪崽。<br>特殊要求:无</p>
@@ -254,9 +349,9 @@
         
         <tags>
             
-            <tag> atreus </tag>
-            
             <tag> keyboard </tag>
+            
+            <tag> atreus </tag>
             
         </tags>
         
@@ -318,9 +413,9 @@
         
         <tags>
             
-            <tag> keyboard </tag>
-            
             <tag> DIY </tag>
+            
+            <tag> keyboard </tag>
             
         </tags>
         
@@ -1541,13 +1636,13 @@
         
         <tags>
             
+            <tag> kernel </tag>
+            
             <tag> Nexus s </tag>
             
             <tag> git </tag>
             
             <tag> gtihub </tag>
-            
-            <tag> kernel </tag>
             
         </tags>
         
