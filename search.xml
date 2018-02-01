@@ -54,15 +54,6 @@
     </entry>
     
     <entry>
-      <title></title>
-      <url>http://hackqiang.org/2018/01/30/ipfs-init/</url>
-      <content type="html"><![CDATA[<p>ipfs init<br>ipfs config –json API.HTTPHeaders.Access-Control-Allow-Methods ‘[“PUT”, “GET”, “POST”, “OPTIONS”]’<br>ipfs config –json API.HTTPHeaders.Access-Control-Allow-Origin ‘[“*”]’<br>ipfs daemon</p>
-]]></content>
-      
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[从零开始做一把无线键盘]]></title>
       <url>http://hackqiang.org/2017/11/25/make-wireless-keyboard-from-scratch/</url>
       <content type="html"><![CDATA[<blockquote>
