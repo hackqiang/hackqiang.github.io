@@ -4,6 +4,34 @@
   
     
     <entry>
+      <title><![CDATA[2017年总总结]]></title>
+      <url>http://hackqiang.org/2018/02/22/2017summary/</url>
+      <content type="html"><![CDATA[<h3 id="2017过的真快。"><a href="#2017过的真快。" class="headerlink" title="2017过的真快。"></a>2017过的真快。</h3><p>今年的关键词有两个：小丫和跳槽。</p>
+<h3 id="小丫"><a href="#小丫" class="headerlink" title="小丫"></a>小丫</h3><p>这一年，初为人父的我，终于慢慢的进入了父亲的角色，也理解了很多父母的艰辛。</p>
+<p>从不会翻身，到现在能独立行走，看着小丫一天天的变化，想到有一天孩子会离开父母，总觉得有些伤感呢。。。</p>
+<h3 id="跳槽"><a href="#跳槽" class="headerlink" title="跳槽"></a>跳槽</h3><p>回首在samsung这六年，其实做的东西是比较杂的，一开始做bsp，RTOS，kernel，后来做tizen相关的系统软件，再到后来的driver/MW verification framework，以及离职前基于AWS做的cloudAPP，我几乎成了全栈工程师。</p>
+<p>虽然在samsung的绩效每年都很好，每年的涨薪都很可观，但是仔细一想，已经毕业8年了，然而却没有在一个方向做到专家级别，也没有一个能拿的出手的项目，这让我心里很慌，我觉得我需要在一个方面有所积累。</p>
+<p>近两年的AI又开始火了起来，也有了相关的实用产品问世。刚好有一个机会，我也就顺势来到了<code>地平线机器人</code> – 一家做AI芯片的公司。工作方向还是做系统软件，驱动相关，算是干回老本行。但是相比于samsung，这边的工作环境要纯粹的多，没有太多的类似政治因素的东西，而且内部开放度很高，有一个很好的学习环境。</p>
+<h3 id="愿景"><a href="#愿景" class="headerlink" title="愿景"></a>愿景</h3><p>虽然现在工作比较忙，但是还是希望能抽出更多的时间陪陪家人。</p>
+<p>赢接2018，希望公司的发展会越来越快！</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 心情琐事 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 总结 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[dactyl 配列烧写指南]]></title>
       <url>http://hackqiang.org/2018/02/01/dactyl-layout-flash-guide/</url>
       <content type="html"><![CDATA[<h3 id="Step-1-在KLE上修改配列"><a href="#Step-1-在KLE上修改配列" class="headerlink" title="Step 1. 在KLE上修改配列"></a>Step 1. 在KLE上修改配列</h3><p>建议直接在我的配列基础上进行修改：</p>

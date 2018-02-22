@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hackqiang.org/"/>
-  <updated>2018-02-01T12:28:21.792Z</updated>
+  <updated>2018-02-22T07:12:46.854Z</updated>
   <id>http://hackqiang.org/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2017年总总结</title>
+    <link href="http://hackqiang.org/2018/02/22/2017summary/"/>
+    <id>http://hackqiang.org/2018/02/22/2017summary/</id>
+    <published>2018-02-22T06:24:22.000Z</published>
+    <updated>2018-02-22T07:12:46.854Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="2017过的真快。"><a href="#2017过的真快。" class="headerlink" title="2017过的真快。"></a>2017过的真快。</h3><p>今年的关键词有两个：小丫和跳槽。</p><h3 id="小丫"><a href="#小丫" class="headerlink" title="小丫"></a>小丫</h3><p>这一年，初为人父的我，终于慢慢的进入了父亲的角色，也理解了很多父母的艰辛。</p><p>从不会翻身，到现在能独立行走，看着小丫一天天的变化，想到有一天孩子会离开父母，总觉得有些伤感呢。。。</p><h3 id="跳槽"><a href="#跳槽" class="headerlink" title="跳槽"></a>跳槽</h3><p>回首在samsung这六年，其实做的东西是比较杂的，一开始做bsp，RTOS，kernel，后来做tizen相关的系统软件，再到后来的driver/MW verification framework，以及离职前基于AWS做的cloudAPP，我几乎成了全栈工程师。</p><p>虽然在samsung的绩效每年都很好，每年的涨薪都很可观，但是仔细一想，已经毕业8年了，然而却没有在一个方向做到专家级别，也没有一个能拿的出手的项目，这让我心里很慌，我觉得我需要在一个方面有所积累。</p><p>近两年的AI又开始火了起来，也有了相关的实用产品问世。刚好有一个机会，我也就顺势来到了<code>地平线机器人</code> – 一家做AI芯片的公司。工作方向还是做系统软件，驱动相关，算是干回老本行。但是相比于samsung，这边的工作环境要纯粹的多，没有太多的类似政治因素的东西，而且内部开放度很高，有一个很好的学习环境。</p><h3 id="愿景"><a href="#愿景" class="headerlink" title="愿景"></a>愿景</h3><p>虽然现在工作比较忙，但是还是希望能抽出更多的时间陪陪家人。</p><p>赢接2018，希望公司的发展会越来越快！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;2017过的真快。&quot;&gt;&lt;a href=&quot;#2017过的真快。&quot; class=&quot;headerlink&quot; title=&quot;2017过的真快。&quot;&gt;&lt;/a&gt;2017过的真快。&lt;/h3&gt;&lt;p&gt;今年的关键词有两个：小丫和跳槽。&lt;/p&gt;
+&lt;h3 id=&quot;小丫&quot;&gt;&lt;a href=&quot;
+      
+    
+    </summary>
+    
+      <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
+    
+    
+      <category term="总结" scheme="http://hackqiang.org/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
   
   <entry>
     <title>dactyl 配列烧写指南</title>
@@ -512,31 +538,6 @@
     
       <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>2014年终总结</title>
-    <link href="http://hackqiang.org/2015/01/22/2014-e5-b9-b4-e7-bb-88-e6-80-bb-e7-bb-93/"/>
-    <id>http://hackqiang.org/2015/01/22/2014-e5-b9-b4-e7-bb-88-e6-80-bb-e7-bb-93/</id>
-    <published>2015-01-22T02:29:00.000Z</published>
-    <updated>2017-10-17T10:59:56.022Z</updated>
-    
-    <content type="html"><![CDATA[<p>2014，是忙碌的一年，也是碌碌无为的一年。<br>工作<br>年初的时候，进入了一个新的项目组，进行kernel相关的工作，期间分析了很多oops的问题，得到了HQ资深工程师的培训，学习了众多samsung对kernel改进的patch，重温了VFS，MM，scheduler等模块，总体上来说，虽然没有学习到太多新鲜的东西，但是对kernel skill帮助是很大的。<br>随着公司大力推动tizen，下半年开始接触tizen，期间做了一些tizen移植的工作，移植tizen到SAMSUNG私有的电视板子上，后来又移植到了开源硬件cubieboard上。<br>生活<br>在女朋友家过了一个很有意思的春节。<br>因为担心限牌，在丈母娘的支持下买了车–2012款福克斯，手动的，可惜不是2.0排量，感觉还行。6月份拿到驾照，到目前为止已经有3个违章。<br>10月终于收房了，因为是精装交付的，所以自己只搞了软装，元旦节就正式入住了。<br>今年突然流行起了智能家居，我也跟风了解了下，并众筹了一台3D打印机，UM2结构的，感觉应该会不错。<br>今年一整年的博文还是各位数，发现自己越来越不注重记录了，以后一定要改变。<br>现在已经用todo list来管理自己的生活了。<br>记得3年前写了一封给未来自己的信，其中提出了一些要求，现在发现完全没有做到，非常的惭愧。所以在新的一年，我希望自己能做到：<br>少玩游戏<br>注重知识的积累（记录）<br>养成早起的习惯<br>更用心的对待周围的人和事</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;2014，是忙碌的一年，也是碌碌无为的一年。&lt;br&gt;工作&lt;br&gt;年初的时候，进入了一个新的项目组，进行kernel相关的工作，期间分析了很多oops的问题，得到了HQ资深工程师的培训，学习了众多samsung对kernel改进的patch，重温了VFS，MM，schedul
-      
-    
-    </summary>
-    
-      <category term="心情琐事" scheme="http://hackqiang.org/categories/%E5%BF%83%E6%83%85%E7%90%90%E4%BA%8B/"/>
-    
-    
-      <category term="总结" scheme="http://hackqiang.org/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
