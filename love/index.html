@@ -1,0 +1,144 @@
+
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Qiang & Lynn</title>
+ </head>
+ <body>
+<div id="time_layer">
+	<table width="456" height="42" border="0" cellpadding="0" cellspacing="0" bordercolor="blue" style="border-collapse: collapse" borderlight="green">
+	<tr>
+		<td width="437" align="center">
+			<form name="up">
+				<input name="face" type="text" class="time_style" style="border-left:none; border-right:none; border-top:none; border-bottom:0;background:transparent" value="" size="42">
+			</form>
+		</td>
+    </tr>
+	</table>
+</div>
+
+<br>
+<br>
+<center>
+<img src="/love/qiang.gif" width="251" height="286">
+</center>
+<center>
+<img src="/love/lynn1.jpg" width="381" height="323">
+<img src="/love/lynn2.jpg" width="321" height="299">
+</center>
+
+
+<script language="JavaScript">
+var timerID;
+var timerRunning = false;
+var today = new Date();
+var startday = new Date();
+var secPerDay = 0;
+var minPerDay = 0;
+var hourPerDay = 0;
+var secsLeft = 0;
+var secsRound = 0;
+var secsRemain = 0;
+var minLeft = 0;
+var minRound = 0;
+var minRemain = 0;
+var timeRemain = 0;
+
+function stopclock()
+{
+        if(timerRunning)
+                clearTimeout(timerID);
+        timerRunning = false;
+}
+
+function startclock()
+{
+        stopclock();
+        showtime1();
+}
+
+function showtime1()
+{
+        startday = new Date("November 3, 2006 20:00 EDT");
+        startday.setYear("2006");
+        today = new Date();
+        secsPerDay = 1000 ;
+        minPerDay = 60 * 1000 ;
+        hoursPerDay = 60 * 60 * 1000;
+        PerDay = 24 * 60 * 60 * 1000;
+
+
+        secsLeft = (today.getTime() - startday.getTime()) / minPerDay;
+        secsRound = Math.round(secsLeft);
+        secsRemain = secsLeft - secsRound;
+        secsRemain = (secsRemain < 0) ? secsRemain = 60 - ((secsRound - secsLeft) * 60) : secsRemain = (secsLeft - secsRound) * 60;
+        secsRemain = Math.round(secsRemain);
+
+        minLeft = ((today.getTime() - startday.getTime()) / hoursPerDay);
+        minRound = Math.round(minLeft);
+        minRemain = minLeft - minRound;
+        minRemain = (minRemain < 0) ? minRemain = 60 - ((minRound - minLeft) * 60) : minRemain = ((minLeft - minRound) * 60);
+        minRemain = Math.round(minRemain - 0.495);
+
+        hoursLeft = ((today.getTime() - startday.getTime()) / PerDay);
+        hoursRound = Math.round(hoursLeft);
+        hoursRemain = hoursLeft - hoursRound;
+        hoursRemain = (hoursRemain < 0) ? hoursRemain = 24 - ((hoursRound - hoursLeft) * 24)  : hoursRemain = ((hoursLeft - hoursRound) * 24);
+        hoursRemain = Math.round(hoursRemain - 0.5);
+
+        daysLeft = ((today.getTime() - startday.getTime()) / PerDay);
+        daysLeft = (daysLeft - 0.5);
+        daysRound = Math.round(daysLeft);
+        daysRemain = daysRound;
+
+        if (daysRemain == 1)
+        {
+                day_rem = " day, "
+        }
+        else
+        {
+                day_rem = " days, "
+        }
+
+        if (hoursRemain == 1)
+        {
+                hour_rem = " hour, "
+        }
+        else
+        {
+                hour_rem = " hours, "
+        }
+
+
+        if (minRemain == 1)
+        {
+                min_rem = " minute, "
+        }
+        else
+        {
+                min_rem = " minutes, "
+        }
+
+
+        if (secsRemain == 1)
+        {
+                sec_rem = " second"
+        }
+        else
+        {
+                sec_rem = " seconds"
+        }
+
+
+        timeRemain = daysRemain + day_rem + hoursRemain + hour_rem + minRemain +
+        min_rem + secsRemain + sec_rem;
+        document.up.face.value = timeRemain;
+        
+        timerID = setTimeout("showtime1()",1000);
+        timerRunning = true;
+}
+startclock();
+</script>
+</body>
+ 
+</html>
